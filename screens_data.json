@@ -1,0 +1,29 @@
+{
+  'Snackbars': {
+      'kv_string': 'snackbar',
+      'Import': 'from libs.baseclass.snackbar import KitchenSinkSnackBar',
+      'Factory': 'KitchenSinkSnackBar()',
+      'name_screen': 'snackbar',
+      'source_code': 'Components-Snackbar.md',
+      'object': 0,
+      'icon': 'dock-window'
+  },
+  'Dialogs': {
+      'kv_string': 'dialogs',
+      'Import': 'from libs.baseclass.dialogs import KitchenSinkDialogs',
+      'Factory': 'KitchenSinkDialogs()',
+      'name_screen': 'dialogs',
+      'source_code': 'Components-Dialog.md',
+      'object': 0,
+      'icon': 'message-processing'
+  },
+  'Grid lists': {
+      'kv_string': 'grid',
+      'Import': 'from libs.baseclass.grid import KitchenSinkGrid',
+      'Factory': 'KitchenSinkGrid()',
+      'name_screen': 'grid',
+      'source_code': 'Components-SmartTileWithStar.md',
+      'object': 0,
+      'icon': 'grid'
+  },
+}
