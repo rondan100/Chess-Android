@@ -1,4 +1,5 @@
 import os
+import socket
 
 from kivy.properties import ObjectProperty
 from kivy.uix.boxlayout import BoxLayout
@@ -8,6 +9,7 @@ from kivymd.uix.button import MDFlatButton
 from kivymd.uix.dialog import MDDialog
 from kivymd.uix.list import OneLineAvatarIconListItem
 from libs.baseclass.list_items import KitchenSinkOneLineLeftAvatarItem
+from kivymd.uix.snackbar import Snackbar
 
 
 class KitchenSinkDialogsCustomContent(BoxLayout):
@@ -31,6 +33,18 @@ class KitchenSinkDialogs(Screen):
     alert_dialog = None
     custom_dialog = None
     confirmation_dialog = None
+
+    def cliente(self, soquete):
+        try:
+            s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+            s.connect(('192.168.0.22', 12345))
+        except Exception:
+            Snackbar(text="Falha ao criar conexão.").show()
+        else:
+            Snackbar(text="Conexão estabelecida").show()
+            s.send(bytes("Cliente enviouuu!!!", "utf-8"))
+
+        self.alert_dialog.dismiss()
 
     def show_example_simple_dialog(self):
         if not self.simple_dialog:
@@ -61,12 +75,13 @@ class KitchenSinkDialogs(Screen):
                 text="This will reset your device to its default factory settings.",
                 buttons=[
                     MDFlatButton(
-                        text="CANCEL",
+                        text="CANCELAR",
                         text_color=self.app.theme_cls.primary_color,
                     ),
                     MDFlatButton(
-                        text="ACCEPT",
+                        text="ACEITAR",
                         text_color=self.app.theme_cls.primary_color,
+                        on_release=self.cliente,
                     ),
                 ],
             )
