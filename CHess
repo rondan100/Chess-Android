@@ -96,7 +96,6 @@ kv = """
     MDFloatingActionButtonSpeedDial:
         data: app.data
         rotation_root_button: False
-        # on_press: root.Update()
 
     Button:
         text:'Start Menu'
@@ -127,12 +126,6 @@ kv = """
 """
 
 Builder.load_string(kv)
-
-class MyFigure(FigureCanvasKivyAgg):
-    def __init__(self, **kwargs):
-        plt.plot([1, 23, 2, 4])
-        plt.ylabel('some numbers')
-        super(MyFigure, self).__init__(plt.gcf(), **kwargs)
 
 # Start Page
 class StartPage(Screen):      
