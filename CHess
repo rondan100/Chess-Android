@@ -12,10 +12,28 @@ from kivymd.uix.tab import MDTabsBase
 
 
 kv = '''
+<ContentNavigationDrawer>:
+
+    ScrollView:
+
+        MDList:
+
+            OneLineListItem:
+                text: "Screen 1"
+                on_press:
+                    root.nav_drawer.set_state("close")
+                    root.screen_manager.current = "Scr_1"
+
+            OneLineListItem:
+                text: "Screen 2"
+                on_press:
+                    root.nav_drawer.set_state("close")
+                    root.screen_manager.current = "Scr_2"
+
 <Tab>:
     MDLabel:
-        text: "Content"
-        pos_hint: {"center_x": .5, "center_y": .5}
+        text: "Content1"
+        pos_hint: {"center_x": 0.95, "center_y": 0.5}
 
 <ScreensManager>:
     MainScreen:
@@ -23,126 +41,83 @@ kv = '''
 
 <MainScreen>:
     name: "main_screen"
+    box: box
     
     BoxLayout:
         orientation: 'vertical'
+
         MDToolbar:
-            title: "MDToolbar"
-            left_action_items: [["menu", lambda x: app.callback()]]
-            right_action_items: [["dots-vertical", lambda x: app.callback()]]
+            id: toolbar
+            title: "Chess Statistics"
+            left_action_items: [["menu", lambda x: nav_drawer.set_state("open")]]
+            right_action_items: [["dots-vertical", lambda x: nav_drawer.set_state("open")]]
+
 
         MDTabs:
             Tab:
                 text: "DASHBOARD"
-            Tab:
-                text: "STUDY"
-            Tab:
-                text: "PRACTICE"
-
-        MDBottomNavigation:
-            orientation: 'vertical'
-
-            MDBottomNavigationItem:
-                name: 'screen1'
-                text: 'active'
-                icon: 'note-plus'
-
                 MDFloatingActionButton:
                     id: float_act_btn
                     icon: 'plus'
                     opposite_colors: True
                     md_bg_color: app.theme_cls.primary_color
-                    pos_hint: {'center_x': 0.85, 'center_y': 0.15}    
-
-            MDBottomNavigationItem:
-                name: 'screen2'
-                text: 'medicine'
-                icon: 'pill'
-
+                    pos_hint: {'center_x': 0.84, 'center_y': 0.1}
+            Tab:
+                text: "STUDY"
+                id: box
                 Button:
                     text:'Update'
                     font_size: 20
                     bold: True
                     size_hint: 0.15, 0.08
-                    pos_hint: {'x':0.8, 'y': 0.5 }
+                    pos_hint: {'x':0.8, 'y': 0.3 }
                     color: 1, 1, 1, 1
                     on_press: root.Update()
+            Tab:
+                text: "PRACTICE"
 
-                MDFloatingActionButton:
-                    pos_hint:{"center_x": .85, "center_y": .15}
-                    icon: 'plus'
-                    md_bg_color: app.theme_cls.primary_color
-                    on_release:
-                        app.root.current = "second_screen"
-                        root.manager.transition.direction = "left"
+    NavigationLayout:
+        x: toolbar.height
 
-            MDBottomNavigationItem:
-                name: 'screen3'
-                text: 'calendar'
-                icon: 'calendar'
+        ScreenManager:
+            id: screen_manager
+
+            Screen:
+                # box: box
+                name: "Scr_1"
+
+                BoxLayout:
+                    # id: box
+                    size_hint: 0.8, 0.75
+                    pos_hint:{'x': 0.15, 'y': 0.1 }
+
+            Screen:
+                name: "Scr_2"
+
+                MDLabel:
+                    text: "Screen 2"
+                    halign: "center"
+
+        MDNavigationDrawer:
+            id: nav_drawer
+
+            ContentNavigationDrawer:
+                screen_manager: screen_manager
+                nav_drawer: nav_drawer
+
+    
 
 
 <SecondScreen>:
     name: "second_screen"
-    
-    BoxLayout:
-        orientation: 'vertical'
-        BoxLayout:
-            orientation: 'vertical'
-            padding: 20
-
-            MDLabel:
-                text: "Insert your data"
-
-            Widget:
-
-            MDLabel:
-                text:"Name of medicine"
-
-            MDTextField:
-                id: name_med
-                hint_text: "Name"
-                mode: "rectangle"
-
-            Widget:
-
-            MDLabel:
-                text:"How many pills do you have?"
-
-            MDTextField:
-                id: pills_amount
-                hint_text: "Pills amount"
-                mode: "rectangle"
-
-            Widget:
-
-            MDLabel:
-                text:"How many times a day to take them?"
-
-            MDTextField:
-                id: times_amount
-                hint_text: "Times a day"
-                mode: "rectangle"
-
-        FloatLayout:
-            MDFloatingActionButton:
-                pos_hint:{"center_x": .2, "center_y": .2}
-                icon: 'arrow-left'
-                on_release:
-                    app.root.current = "main_screen"
-                    root.manager.transition.direction = "right"
-
-            MDFloatingActionButton:
-                pos_hint:{"center_x": .8, "center_y": .2}
-                icon: 'check'
-                md_bg_color: app.theme_cls.primary_color
-                on_release:
-                    app.root.current = "main_screen"
-                    root.manager.transition.direction = "right"
                 
 '''
 
 Builder.load_string(kv)
+
+class ContentNavigationDrawer(BoxLayout):
+    screen_manager = ObjectProperty()
+    nav_drawer = ObjectProperty()
 
 class Tab(FloatLayout, MDTabsBase):
     '''Class implementing content for a tab.'''
@@ -151,7 +126,7 @@ class ScreensManager(ScreenManager):
     pass
 
 class MainScreen(Screen):
-    box = ObjectProperty()
+    box = ObjectProperty(None)
 
     def add_plot(self, N):
 
@@ -173,7 +148,7 @@ class MainScreen(Screen):
         plt.cla()
         self.box.clear_widgets()
         self.fig1 = MainScreen.add_plot(self,1000)
-        self.box.add_widget(FigureCanvasKivyAgg(self.fig1,size_hint=(1,0.4),pos_hint={"top":1.2}))
+        self.box.add_widget(FigureCanvasKivyAgg(self.fig1,size_hint=(1,0.4),pos_hint={"top":1}))
 
     def Limpar(self):
         self.box.clear_widgets()
