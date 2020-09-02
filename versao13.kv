@@ -1,0 +1,181 @@
+<ContentNavigationDrawer>:
+    orientation: "vertical"
+    padding: "0dp"
+    spacing: "8dp"
+
+    AnchorLayout:
+        anchor_x: "left"
+        size_hint_y: None
+        height: avatar.height
+
+        Image:
+            id: avatar
+            size_hint: None, None
+            size: "320dp", "320dp"
+            source: "chess.jpg"
+
+    MDLabel:
+        text: "     All Starts Here!"
+        font_style: "Button"
+        size_hint_y: None
+        height: self.texture_size[1]
+
+    MDLabel:
+        text: "     Adding green energy to your life..."
+        font_style: "Caption"
+        size_hint_y: None
+        height: self.texture_size[1]
+
+    ScrollView:
+
+        MDList:
+
+            OneLineIconListItem:
+                text: "DASHBOARD"
+                on_press:
+                    root.nav_drawer.set_state("close")
+                    root.screen_manager.current = "Scr_1"
+                IconLeftWidget:
+                    icon: "desktop-mac-dashboard"
+                
+
+            OneLineIconListItem:
+                text: "ANALYTCS"
+                on_press:
+                    root.nav_drawer.set_state("close")
+                    root.screen_manager.current = "Scr_2"
+                IconLeftWidget:
+                    icon:"google-analytics"
+                    # icon: "home-analytics"
+
+<Tab>:
+    # MDLabel:
+    #     text: "Content1"
+    #     pos_hint: {"center_x": 0.95, "center_y": 0.2}
+
+<ScreensManager>:
+    MainScreen:
+    SecondScreen:
+
+<MainScreen>:
+    name: "main_screen"
+    box1: box1
+    box2: box2
+    
+    BoxLayout:
+        orientation: 'vertical'
+
+        MDToolbar:
+            id: toolbar
+            title: "Chess Statistics"
+            left_action_items: [["menu", lambda x: nav_drawer.set_state("open")]]
+            # right_action_items: [["dots-vertical", lambda x: root.menu_1.open()]]
+            MDIconButton:
+                id: botao
+                icon: 'dots-vertical'
+                theme_text_color: 'Custom'
+                elevation: 0
+                md_bg_color: app.theme_cls.primary_color
+                # on_release: app.menu.open()
+
+
+        MDTabs:
+            id: tabs
+            Tab:
+                text: "DASHBOARD"
+                # MDFloatingActionButtonSpeedDial:
+                #     data: app.data
+                MDFloatingActionButton:
+                    id: float_act_btn
+                    icon: 'plus'
+                    opposite_colors: True
+                    md_bg_color: app.theme_cls.primary_color
+                    pos_hint: {'center_x': 0.84, 'center_y': 0.1}
+                    # on_release: root.show_alert_dialog()
+            Tab:
+                text: "STUDY"
+                # name: "tab2"
+                # orientation: 'vertical'
+
+                ScrollView:
+                    do_scroll_x: False
+                    do_scroll_y: True
+
+                    GridLayout:
+                        # id: box
+                        size_hint_y: None
+                        height: self.minimum_height
+                        cols: 1
+                        rows: 2
+                        size: root.width, root.height 
+                        # pos_hint:{'x': 0.02, 'y': 0.85 }
+
+                        orientation: 'vertical'
+
+                        BoxLayout:
+                            id: box1
+                            size_hint: 1, 1
+                            pos_hint:{'x': 0.1, 'y': 1 }
+
+                        BoxLayout:
+                            id: box2
+                            Button:
+                                text:'BOX'
+                                size_hint: 1, 1
+                                pos_hint:{'x': 0, 'y': 0 }
+                            
+
+                Button:
+                    text:'Update'
+                    font_size: 20
+                    bold: True
+                    size_hint: 0.1, 0.08
+                    pos_hint: {'x':0.8, 'y': 0.1 }
+                    color: 1, 1, 1, 1
+                    on_press: root.show_alert_dialog()
+                Button:
+                    text:'Limpar'
+                    font_size: 20
+                    bold: True
+                    size_hint: 0.1, 0.08
+                    pos_hint: {'x':0.8, 'y': 0 }
+                    color: 1, 1, 1, 1
+                    on_press: root.Update2()
+            Tab:
+                text: "PRACTICE"
+
+    NavigationLayout:
+        x: toolbar.height
+
+        ScreenManager:
+            id: screen_manager
+
+            Screen:
+                # box: box
+                name: "Scr_1"
+
+                BoxLayout:
+                    # id: box
+                    size_hint: 0.8, 0.75
+                    pos_hint:{'x': 0.15, 'y': 0.1 }
+
+            Screen:
+                name: "Scr_2"
+
+                MDLabel:
+                    text: "Screen 2"
+                    halign: "center"
+
+        MDNavigationDrawer:
+            id: nav_drawer
+
+            ContentNavigationDrawer:
+                screen_manager: screen_manager
+                nav_drawer: nav_drawer
+
+    
+
+
+<SecondScreen>:
+    name: "second_screen"
+                

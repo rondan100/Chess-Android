@@ -11,6 +11,9 @@ from kivymd.uix.list import OneLineAvatarIconListItem
 from libs.baseclass.list_items import KitchenSinkOneLineLeftAvatarItem
 from kivymd.uix.snackbar import Snackbar
 
+import matplotlib.pyplot as plt
+from kivy.garden.matplotlib.backend_kivyagg import FigureCanvasKivyAgg
+
 
 class KitchenSinkDialogsCustomContent(BoxLayout):
     pass
@@ -45,6 +48,13 @@ class KitchenSinkDialogs(Screen):
             s.send(bytes("Cliente enviouuu!!!", "utf-8"))
 
         self.alert_dialog.dismiss()
+
+    def build(self):
+        plt.plot([1, 23, 2, 4])
+        plt.ylabel('some numbers')
+        box = BoxLayout()
+        box.add_widget(FigureCanvasKivyAgg(plt.gcf()))
+        return box
 
     def show_example_simple_dialog(self):
         if not self.simple_dialog:
@@ -81,7 +91,7 @@ class KitchenSinkDialogs(Screen):
                     MDFlatButton(
                         text="ACEITAR",
                         text_color=self.app.theme_cls.primary_color,
-                        on_release=self.cliente,
+                        on_release=self.build(),
                     ),
                 ],
             )

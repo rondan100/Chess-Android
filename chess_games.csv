@@ -1,0 +1,864 @@
+,date,result,moves,speed,link,my_elo,opponent_elo,opponent_country,opponent_name,color
+0,"Sep 1, 2020",draw,75,10 min,https://www.chess.com/analysis/game/live/5382837031,1764,1776,United States,poseidon314,white
+1,"Sep 1, 2020",loss,16,10 min,https://www.chess.com/analysis/game/live/5382817380,1764,1759,Indonesia,heru007,black
+2,"Aug 31, 2020",loss,85,15|10,https://www.chess.com/analysis/game/live/5379938973,1671,1679,Canada,hectordamasen,black
+3,"Aug 31, 2020",loss,18,10 min,https://www.chess.com/analysis/game/live/5378401945,1773,1840,United States,ResentfulPawn,white
+4,"Aug 31, 2020",win,36,10 min,https://www.chess.com/analysis/game/live/5377638551,1780,1783,Croatia,Dalmacija2,black
+5,"Aug 31, 2020",win,18,10 min,https://www.chess.com/analysis/game/live/5377617012,1772,1777,Philippines,Dgxyron_Castle,white
+6,"Aug 31, 2020",loss,20,10 min,https://www.chess.com/analysis/game/live/5377593268,1764,1821,United States,maasai22,white
+7,"Aug 30, 2020",win,18,10 min,https://www.chess.com/analysis/game/live/5375134293,1771,1716,United States,d_weger,white
+8,"Aug 30, 2020",loss,28,10 min,https://www.chess.com/analysis/game/live/5375106387,1764,1781,Egypt,medochefg,white
+9,"Aug 30, 2020",win,76,10 min,https://www.chess.com/analysis/game/live/5374686265,1772,1744,Brazil,neuron2,black
+10,"Aug 29, 2020",loss,50,10 min,https://www.chess.com/analysis/game/live/5370008629,1764,1688,United States,kris67,black
+11,"Aug 29, 2020",win,22,10 min,https://www.chess.com/analysis/game/live/5369997354,1774,1678,United States,kris67,white
+12,"Aug 29, 2020",loss,40,10 min,https://www.chess.com/analysis/game/live/5369958056,1768,1755,South Africa,Charldon,white
+13,"Aug 29, 2020",loss,38,10 min,https://www.chess.com/analysis/game/live/5368484335,1777,1793,India,BHANWARLAL,black
+14,"Aug 29, 2020",loss,48,10 min,https://www.chess.com/analysis/game/live/5368135636,1785,1770,Norway,Yngvis08,white
+15,"Aug 28, 2020",win,33,10 min,https://www.chess.com/analysis/game/live/5365774130,1794,1907,Indonesia,PapaBean,black
+16,"Aug 28, 2020",draw,80,10 min,https://www.chess.com/analysis/game/live/5363854274,1783,1742,Belgium,marco8020,black
+17,"Aug 27, 2020",win,47,10 min,https://www.chess.com/analysis/game/live/5360899808,1784,1762,United States,dmg1979,black
+18,"Aug 25, 2020",win,53,10 min,https://www.chess.com/analysis/game/live/5348712392,1776,1757,Brazil,aracatuba0110,white
+19,"Aug 25, 2020",win,37,10 min,https://www.chess.com/analysis/game/live/5348677848,1768,1765,Brazil,aracatuba0110,black
+20,"Aug 25, 2020",loss,24,10 min,https://www.chess.com/analysis/game/live/5348658008,1760,1773,Brazil,aracatuba0110,white
+21,"Aug 25, 2020",draw,80,10 min,https://www.chess.com/analysis/game/live/5348596639,1768,1765,Brazil,aracatuba0110,black
+22,"Aug 25, 2020",win,42,10 min,https://www.chess.com/analysis/game/live/5348521475,1768,1728,India,kalgargiri,white
+23,"Aug 25, 2020",loss,13,10 min,https://www.chess.com/analysis/game/live/5348510861,1761,1752,India,markevans1107,white
+24,"Aug 24, 2020",win,35,10 min,https://www.chess.com/analysis/game/live/5346167172,1770,1664,Colombia,alfonsovillamil,white
+25,"Aug 24, 2020",win,35,10 min,https://www.chess.com/analysis/game/live/5346036397,1764,1776,United States,c1anatoliy,black
+26,"Aug 24, 2020",win,46,10 min,https://www.chess.com/analysis/game/live/5345726306,1755,1665,Italy,ponica66,white
+27,"Aug 24, 2020",loss,9,10 min,https://www.chess.com/analysis/game/live/5345722786,1749,1873,Chile,carsoval2019,black
+28,"Aug 24, 2020",loss,37,10 min,https://www.chess.com/analysis/game/live/5345166158,1754,1694,Netherlands,adriaanko,white
+29,"Aug 24, 2020",loss,66,10 min,https://www.chess.com/analysis/game/live/5345047542,1764,1777,Ukraine,ivan_buha,black
+30,"Aug 24, 2020",win,29,10 min,https://www.chess.com/analysis/game/live/5344012378,1772,1752,United Kingdom,Ricky894,white
+31,"Aug 24, 2020",loss,32,15|10,https://www.chess.com/analysis/game/live/5343273764,1701,1635,Ukraine,shaxmat0,black
+32,"Aug 23, 2020",win,43,10 min,https://www.chess.com/analysis/game/live/5341102796,1764,1891,India,sanjaykgr,black
+33,"Aug 23, 2020",loss,46,10 min,https://www.chess.com/analysis/game/live/5341060833,1753,1761,Montenegro,sasa1969,black
+34,"Aug 23, 2020",win,29,10 min,https://www.chess.com/analysis/game/live/5340849460,1761,1878,Morocco,Jaffarnyo,white
+35,"Aug 23, 2020",loss,49,10 min,https://www.chess.com/analysis/game/live/5340804678,1750,1808,Russia,MaraCuyaIsTheBest,error
+36,"Aug 23, 2020",win,38,10 min,https://www.chess.com/analysis/game/live/5340048128,1757,1764,Russia,Dak33,black
+37,"Aug 23, 2020",win,55,15|10,https://www.chess.com/analysis/game/live/5338640065,1739,1647,Iran,asgharmahmoudi1330,white
+38,"Aug 23, 2020",win,34,15|10,https://www.chess.com/analysis/game/live/5338527085,1713,1606,Bulgaria,kechev123,white
+39,"Aug 21, 2020",win,59,15|10,https://www.chess.com/analysis/game/live/5331302135,1686,1507,United States,CEOGoldMinesInc,white
+40,"Aug 21, 2020",loss,32,15|10,https://www.chess.com/analysis/game/live/5331248407,1664,1708,France,faujas,white
+41,"Aug 21, 2020",win,49,15|10,https://www.chess.com/analysis/game/live/5329435993,1705,1649,Myanmar,KoBlade,black
+42,"Aug 20, 2020",win,72,15|10,https://www.chess.com/analysis/game/live/5327164773,1660,1534,Poland,Nowocinski,error
+43,"Aug 20, 2020",win,19,15|10,https://www.chess.com/analysis/game/live/5326910924,1618,1514,Mexico,irvin_kirito,black
+44,"Aug 20, 2020",win,26,15|10,https://www.chess.com/analysis/game/live/5326769908,1566,1505,Israel,MeAndNotYou23,white
+45,"Aug 20, 2020",win,15,15|10,https://www.chess.com/analysis/game/live/5326750707,1489,1398,France,Gekkouga45,white
+46,"Aug 20, 2020",win,17,15|10,https://www.chess.com/analysis/game/live/5326731370,1396,1247,United States,Himmy33,black
+47,"Aug 20, 2020",loss,35,15|10,https://www.chess.com/analysis/game/live/5326661011,1283,1437,United States,waynevetter,black
+48,"Aug 20, 2020",win,17,10 min,https://www.chess.com/analysis/game/live/5326611199,1748,1748,Ukraine,lc120p,black
+49,"Aug 19, 2020",loss,55,10 min,https://www.chess.com/analysis/game/live/5322245086,1739,1775,Philippines,antonioambatali,white
+50,"Aug 19, 2020",loss,22,10 min,https://www.chess.com/analysis/game/live/5321021668,1746,1753,Catalonia,HEISENBERG1961,white
+51,"Aug 19, 2020",win,19,10 min,https://www.chess.com/analysis/game/live/5319747084,1754,1724,Israel,iaridy,white
+52,"Aug 19, 2020",win,78,10 min,https://www.chess.com/analysis/game/live/5319417243,1746,1706,Greece,mikest63,white
+53,"Aug 18, 2020",loss,27,10 min,https://www.chess.com/analysis/game/live/5317681815,1739,1688,Serbia,drgn12,black
+54,"Aug 18, 2020",win,25,10 min,https://www.chess.com/analysis/game/live/5317283630,1749,1756,United States,KARENGEVORGYAN032,black
+55,"Aug 18, 2020",win,49,10 min,https://www.chess.com/analysis/game/live/5317227009,1740,1765,United States,KARENGEVORGYAN032,white
+56,"Aug 18, 2020",loss,28,10 min,https://www.chess.com/analysis/game/live/5317177161,1731,1774,United States,KARENGEVORGYAN032,black
+57,"Aug 18, 2020",loss,1,10 min,https://www.chess.com/live/game/5315577889?username=rondan1000,1738,1729,Philippines,drux2019,white
+58,"Aug 18, 2020",loss,48,10 min,https://www.chess.com/analysis/game/live/5315527168,1747,1716,Ireland,tjandanleni,black
+59,"Aug 18, 2020",loss,6,10 min,https://www.chess.com/analysis/game/live/5315521485,1756,1752,Indonesia,jamessiahaan,black
+60,"Aug 18, 2020",win,16,10 min,https://www.chess.com/analysis/game/live/5315509267,1764,1748,International,bob8952per,black
+61,"Aug 18, 2020",loss,24,10 min,https://www.chess.com/analysis/game/live/5315482482,1756,1708,Italy,6gattino,white
+62,"Aug 18, 2020",loss,48,10 min,https://www.chess.com/analysis/game/live/5315232327,1766,1799,France,rphil0007,white
+63,"Aug 18, 2020",loss,33,10 min,https://www.chess.com/analysis/game/live/5314722753,1774,1779,Indonesia,yudif,white
+64,"Aug 17, 2020",loss,13,10 min,https://www.chess.com/analysis/game/live/5312888169,1782,1770,United States,Vulanist,white
+65,"Aug 17, 2020",win,64,10 min,https://www.chess.com/analysis/game/live/5312612103,1791,1749,United States,Scully93,black
+66,"Aug 17, 2020",win,25,10 min,https://www.chess.com/analysis/game/live/5312581115,1784,1756,United States,Scully93,white
+67,"Aug 17, 2020",win,39,10 min,https://www.chess.com/analysis/game/live/5312279170,1776,1755,Chile,ns2s,white
+68,"Aug 17, 2020",loss,56,10 min,https://www.chess.com/analysis/game/live/5312018146,1768,1767,Ukraine,Dar_Veter24,black
+69,"Aug 17, 2020",win,28,10 min,https://www.chess.com/analysis/game/live/5311721650,1776,1719,Poland,Pawko1234,error
+70,"Aug 17, 2020",loss,32,10 min,https://www.chess.com/analysis/game/live/5311492194,1769,1832,Mexico,347721,white
+71,"Aug 17, 2020",win,27,10 min,https://www.chess.com/analysis/game/live/5310363893,1776,1803,United States,DSL_tec,error
+72,"Aug 17, 2020",win,29,10 min,https://www.chess.com/analysis/game/live/5310316071,1767,1643,Ukraine,ezrabuca,black
+73,"Aug 16, 2020",win,28,10 min,https://www.chess.com/analysis/game/live/5308495989,1762,1756,United States,Ihar,black
+74,"Aug 16, 2020",win,24,10 min,https://www.chess.com/analysis/game/live/5308466019,1754,1774,United States,kinlock1,white
+75,"Aug 16, 2020",loss,29,10 min,https://www.chess.com/analysis/game/live/5308203973,1745,1796,Montenegro,hahhagaj,white
+76,"Aug 16, 2020",win,48,10 min,https://www.chess.com/analysis/game/live/5308160913,1752,1639,Russia,FAHRUS04,black
+77,"Aug 16, 2020",win,23,10 min,https://www.chess.com/analysis/game/live/5308150047,1746,1638,International,BaChess21,white
+78,"Aug 16, 2020",loss,43,5 min,https://www.chess.com/analysis/game/live/5308121621,1740,1796,Argentina,ldiamonte,white
+79,"Aug 16, 2020",loss,21,10 min,https://www.chess.com/analysis/game/live/5307786496,1747,1710,Mexico,vazp31,black
+80,"Aug 16, 2020",loss,15,10 min,https://www.chess.com/analysis/game/live/5307768726,1756,1701,Mexico,vazp31,white
+81,"Aug 16, 2020",win,43,10 min,https://www.chess.com/analysis/game/live/5307629196,1766,1757,Kosovo,BanushPacolli,black
+82,"Aug 16, 2020",loss,57,10 min,https://www.chess.com/analysis/game/live/5307462637,1758,1798,Belarus,belarus-1955,white
+83,"Aug 15, 2020",win,49,10 min,https://www.chess.com/analysis/game/live/5303723402,1765,1770,Ethiopia,Liazra,error
+84,"Aug 15, 2020",loss,16,5 min,https://www.chess.com/analysis/game/live/5303327621,1756,1803,Serbia,O111222111O,black
+85,"Aug 15, 2020",win,60,10 min,https://www.chess.com/analysis/game/live/5303159327,1763,1726,Ukraine,Viktor_Shayko,white
+86,"Aug 15, 2020",loss,51,10 min,https://www.chess.com/analysis/game/live/5302815239,1755,1783,Belarus,febi76,white
+87,"Aug 15, 2020",win,39,10 min,https://www.chess.com/analysis/game/live/5302653642,1763,1726,Czech Republic,gnarledbrain,black
+88,"Aug 15, 2020",win,29,10 min,https://www.chess.com/analysis/game/live/5302585505,1755,1693,Estonia,alohatere,white
+89,"Aug 15, 2020",loss,20,10 min,https://www.chess.com/analysis/game/live/5301443443,1748,1778,United States,SnowLeopard3rd,black
+90,"Aug 15, 2020",loss,92,10 min,https://www.chess.com/analysis/game/live/5301364267,1756,1759,Serbia,goxy65,white
+91,"Aug 15, 2020",win,17,10 min,https://www.chess.com/analysis/game/live/5301340209,1764,1704,Jamaica,deojoanna,white
+92,"Aug 14, 2020",win,34,10 min,https://www.chess.com/analysis/game/live/5297348390,1757,1739,Croatia,ibielen,black
+93,"Aug 11, 2020",win,57,10 min,https://www.chess.com/analysis/game/live/5282437164,1749,1747,United Kingdom,aidan57,black
+94,"Aug 10, 2020",win,26,10 min,https://www.chess.com/analysis/game/live/5280306054,1735,1645,Philippines,aquaman_26,black
+95,"Aug 10, 2020",loss,20,10 min,https://www.chess.com/analysis/game/live/5280291908,1729,1704,Australia,LethalAward,white
+96,"Jul 28, 2020",win,16,10 min,https://www.chess.com/analysis/game/live/5216511505,1738,1608,Philippines,vinmar28,white
+97,"Jul 19, 2020",win,56,10 min,https://www.chess.com/analysis/game/live/5175034678,1733,1677,United States,radenarquiza7,white
+98,"Jul 18, 2020",win,35,10 min,https://www.chess.com/analysis/game/live/5170462852,1726,1569,Brazil,dieguito007,black
+99,"Jul 18, 2020",win,26,10 min,https://www.chess.com/analysis/game/live/5170440355,1721,1574,Brazil,dieguito007,white
+100,"Jul 18, 2020",loss,53,10 min,https://www.chess.com/analysis/game/live/5169991820,1716,1812,Tunisia,AyoubAyed52,black
+101,"Jul 18, 2020",loss,37,10 min,https://www.chess.com/analysis/game/live/5169952413,1722,1581,Spain,Agde1,white
+102,"Jul 17, 2020",loss,44,10 min,https://www.chess.com/analysis/game/live/5165790988,1734,1842,Israel,gadol6,white
+103,"Jul 17, 2020",draw,38,10 min,https://www.chess.com/analysis/game/live/5165596518,1740,1746,United States,jamesdracup,error
+104,"Jul 17, 2020",win,60,10 min,https://www.chess.com/analysis/game/live/5163528968,1740,1660,Sweden,martinzzzz,black
+105,"Jul 16, 2020",win,22,10 min,https://www.chess.com/analysis/game/live/5161011002,1733,1697,India,kishandasari,white
+106,"Jul 16, 2020",win,16,10 min,https://www.chess.com/analysis/game/live/5160998826,1725,1727,United States,tinch3000,black
+107,"Jul 16, 2020",win,23,10 min,https://www.chess.com/analysis/game/live/5160544645,1717,1705,Russia,Requs,white
+108,"Jul 16, 2020",draw,75,10 min,https://www.chess.com/analysis/game/live/5160476060,1709,1685,Germany,Bastian4,black
+109,"Jul 16, 2020",loss,44,10 min,https://www.chess.com/analysis/game/live/5159168408,1710,1732,Argentina,Mori2018,black
+110,"Jul 16, 2020",loss,25,10 min,https://www.chess.com/analysis/game/live/5158423225,1718,1767,Armenia,Armen2500,white
+111,"Jul 16, 2020",win,68,10 min,https://www.chess.com/analysis/game/live/5158221498,1725,1806,Montenegro,muric54,white
+112,"Jul 16, 2020",draw,66,10 min,https://www.chess.com/analysis/game/live/5158163970,1715,1736,Italy,toto00_,black
+113,"Jul 16, 2020",loss,41,10 min,https://www.chess.com/analysis/game/live/5157906648,1715,1770,India,raghavank038,white
+114,"Jul 15, 2020",win,32,10 min,https://www.chess.com/analysis/game/live/5156346061,1722,1742,India,drgchoudhary,black
+115,"Jul 15, 2020",loss,16,10 min,https://www.chess.com/analysis/game/live/5155860559,1713,1707,Venezuela,ahernandez0924,black
+116,"Jul 15, 2020",loss,45,10 min,https://www.chess.com/analysis/game/live/5155823190,1722,1698,Venezuela,ahernandez0924,white
+117,"Jul 15, 2020",win,16,10 min,https://www.chess.com/analysis/game/live/5155811709,1731,1689,Venezuela,ahernandez0924,black
+118,"Jul 15, 2020",win,29,10 min,https://www.chess.com/analysis/game/live/5155694282,1724,1646,Canada,mursa,black
+119,"Jul 15, 2020",win,32,10 min,https://www.chess.com/analysis/game/live/5155646525,1717,1653,Canada,mursa,white
+120,"Jul 15, 2020",win,52,10 min,https://www.chess.com/analysis/game/live/5155597149,1710,1660,Canada,mursa,black
+121,"Jul 15, 2020",loss,56,10 min,https://www.chess.com/analysis/game/live/5155526475,1703,1763,Austria,Mediato,white
+122,"Jul 14, 2020",win,25,10 min,https://www.chess.com/analysis/game/live/5151054796,1710,1675,Iraq,SalahEnglishTeacher,white
+123,"Jul 14, 2020",win,28,10 min,https://www.chess.com/analysis/game/live/5150912892,1702,1639,Colombia,MateoSZ95,white
+124,"Jul 14, 2020",win,25,10 min,https://www.chess.com/analysis/game/live/5147945721,1695,1688,Russia,anatoliy9586,black
+125,"Jul 13, 2020",loss,30,10 min,https://www.chess.com/analysis/game/live/5145114915,1687,1639,Serbia,bojan07405,black
+126,"Jul 13, 2020",win,28,10 min,https://www.chess.com/analysis/game/live/5143446793,1696,1688,Israel,Alexml902,white
+127,"Jul 12, 2020",loss,28,10 min,https://www.chess.com/analysis/game/live/5140428434,1688,1698,Nigeria,nkemzy2019,black
+128,"Jul 12, 2020",loss,16,10 min,https://www.chess.com/analysis/game/live/5140416558,1696,1734,United States,PauGasol16,white
+129,"Jul 11, 2020",loss,31,10 min,https://www.chess.com/analysis/game/live/5136372806,1703,1684,Russia,Ariunmong,white
+130,"Jul 11, 2020",win,25,10 min,https://www.chess.com/analysis/game/live/5136344303,1712,1675,Russia,Ariunmong,black
+131,"Jul 11, 2020",win,22,10 min,https://www.chess.com/analysis/game/live/5136324222,1705,1682,Russia,Ariunmong,white
+132,"Jul 10, 2020",loss,13,10 min,https://www.chess.com/analysis/game/live/5130559510,1697,1644,Colombia,jamcchess,black
+133,"Jul 9, 2020",win,64,10 min,https://www.chess.com/analysis/game/live/5126715347,1707,1649,Turkey,GMMNU,black
+134,"Jul 8, 2020",win,44,10 min,https://www.chess.com/analysis/game/live/5121598991,1700,1666,Serbia,momcilo1004,white
+135,"Jul 8, 2020",win,35,10 min,https://www.chess.com/analysis/game/live/5121571922,1692,1628,United States,igeorg1,white
+136,"Jul 8, 2020",loss,19,10 min,https://www.chess.com/analysis/game/live/5119856535,1685,1675,Ukraine,lukian_chess,black
+137,"Jul 8, 2020",loss,27,10 min,https://www.chess.com/analysis/game/live/5119827092,1694,1705,Kosovo,vahidkabashi,white
+138,"Jul 7, 2020",win,35,10 min,https://www.chess.com/analysis/game/live/5116913152,1702,1665,Colombia,apolo7,black
+139,"Jul 7, 2020",loss,8,10 min,https://www.chess.com/analysis/game/live/5116907377,1694,1835,Brazil,joseartaanael,black
+140,"Jul 7, 2020",draw,62,10 min,https://www.chess.com/analysis/game/live/5116541657,1704,1695,Brazil,serenabruce,white
+141,"Jul 7, 2020",loss,30,10 min,https://www.chess.com/analysis/game/live/5116504478,1704,1695,Brazil,serenabruce,black
+142,"Jul 7, 2020",draw,27,10 min,https://www.chess.com/analysis/game/live/5116458080,1713,1686,Brazil,serenabruce,white
+143,"Jul 7, 2020",loss,21,10 min,https://www.chess.com/analysis/game/live/5116430302,1714,1685,Brazil,serenabruce,black
+144,"Jul 7, 2020",draw,90,10 min,https://www.chess.com/analysis/game/live/5116050910,1723,1806,Tunisia,iftol,white
+145,"Jul 7, 2020",win,45,10 min,https://www.chess.com/analysis/game/live/5115840699,1721,1684,Philippines,gz_ph,black
+146,"Jul 7, 2020",win,42,10 min,https://www.chess.com/analysis/game/live/5115148777,1713,1704,Serbia,nebojsaja,white
+147,"Jul 7, 2020",win,23,10 min,https://www.chess.com/analysis/game/live/5115056250,1705,1712,Zimbabwe,roy_luhanga,white
+148,"Jul 7, 2020",loss,14,10 min,https://www.chess.com/analysis/game/live/5115016972,1696,1696,Iran,gm1137,black
+149,"Jul 7, 2020",win,47,10 min,https://www.chess.com/analysis/game/live/5114958014,1704,1695,Iraq,Joseph327,black
+150,"Jul 6, 2020",win,25,10 min,https://www.chess.com/analysis/game/live/5111874584,1696,1786,United States,JK566482e,error
+151,"Jul 6, 2020",loss,42,10 min,https://www.chess.com/analysis/game/live/5111495008,1686,1696,Israel,Arnon24,white
+152,"Jul 6, 2020",loss,18,10 min,https://www.chess.com/analysis/game/live/5111476636,1694,1806,Spain,patucop100,black
+153,"Jul 6, 2020",win,29,10 min,https://www.chess.com/analysis/game/live/5110942348,1700,1748,United States,amekonnen56,white
+154,"Jul 6, 2020",win,55,10 min,https://www.chess.com/analysis/game/live/5110473549,1691,1621,Russia,Varjag-Svjatoslav,black
+155,"Jul 6, 2020",win,36,10 min,https://www.chess.com/analysis/game/live/5110408079,1684,1666,Brazil,gustavo2330,white
+156,"Jul 6, 2020",win,35,10 min,https://www.chess.com/analysis/game/live/5110353496,1676,1674,Brazil,gustavo2330,black
+157,"Jul 5, 2020",loss,27,10 min,https://www.chess.com/analysis/game/live/5106771301,1668,1693,Argentina,Cabreja10,black
+158,"Jul 5, 2020",loss,32,10 min,https://www.chess.com/analysis/game/live/5106654618,1676,1663,Georgia,KAVALERGARD,white
+159,"Jul 5, 2020",win,23,10 min,https://www.chess.com/analysis/game/live/5106643420,1685,1572,United Kingdom,dracorus,white
+160,"Jul 5, 2020",loss,29,10 min,https://www.chess.com/analysis/game/live/5106212630,1678,1712,India,SatyaOdisha,white
+161,"Jul 5, 2020",win,35,10 min,https://www.chess.com/analysis/game/live/5106095139,1686,1687,Serbia,lizard59,black
+162,"Jul 5, 2020",loss,14,10 min,https://www.chess.com/analysis/game/live/5106026528,1678,1699,Canada,federicomabunga017,black
+163,"Jul 4, 2020",loss,21,10 min,https://www.chess.com/analysis/game/live/5101801811,1686,1776,Colombia,sleyer,white
+164,"Jul 4, 2020",win,69,10 min,https://www.chess.com/analysis/game/live/5099902466,1692,1670,Turkey,mulayim,white
+165,"Jul 4, 2020",loss,28,10 min,https://www.chess.com/analysis/game/live/5099293887,1684,1660,Philippines,camiloChesss,black
+166,"Jul 4, 2020",loss,32,10 min,https://www.chess.com/analysis/game/live/5099112319,1693,1676,Philippines,Emman_Gambit,white
+167,"Jul 4, 2020",win,56,10 min,https://www.chess.com/analysis/game/live/5099026904,1702,1599,Russia,Sergey160160,white
+168,"Jul 3, 2020",win,31,10 min,https://www.chess.com/analysis/game/live/5097306275,1696,1686,International,elsaiedgomaa,black
+169,"Jul 3, 2020",win,41,10 min,https://www.chess.com/analysis/game/live/5096900814,1688,1698,Azerbaijan,mezahimaga,black
+170,"Jul 3, 2020",win,22,10 min,https://www.chess.com/analysis/game/live/5095211048,1679,1698,India,prasad1787,white
+171,"Jul 2, 2020",loss,38,10 min,https://www.chess.com/analysis/game/live/5092385993,1670,1706,Australia,Davemanx75,black
+172,"Jul 2, 2020",win,53,10 min,https://www.chess.com/analysis/game/live/5092121983,1678,1588,Canada,bekong39,white
+173,"Jul 2, 2020",loss,17,10 min,https://www.chess.com/analysis/game/live/5091548270,1672,1700,United States,rubelmds,white
+174,"Jul 2, 2020",loss,17,10 min,https://www.chess.com/analysis/game/live/5091532462,1680,1716,Italy,carlopilia,black
+175,"Jul 2, 2020",loss,15,10 min,https://www.chess.com/analysis/game/live/5091472439,1688,1664,United States,lysander12,black
+176,"Jul 2, 2020",loss,23,10 min,https://www.chess.com/analysis/game/live/5091344181,1697,1799,United Kingdom,rushmere11,error
+177,"Jul 2, 2020",draw,58,10 min,https://www.chess.com/analysis/game/live/5091276085,1703,1722,Spain,Posadilla,white
+178,"Jul 2, 2020",win,38,10 min,https://www.chess.com/analysis/game/live/5089587600,1703,1677,Russia,DiezelF,white
+179,"Jul 2, 2020",loss,20,10 min,https://www.chess.com/analysis/game/live/5089574043,1695,1723,Australia,Davemanx75,white
+180,"Jul 2, 2020",win,52,10 min,https://www.chess.com/analysis/game/live/5089230490,1703,1699,Spain,harlam,black
+181,"Jul 2, 2020",win,22,10 min,https://www.chess.com/analysis/game/live/5089178105,1695,1661,Ukraine,Tovarisch_Bender,black
+182,"Jul 1, 2020",loss,30,10 min,https://www.chess.com/analysis/game/live/5087465623,1687,1657,United States,saacAAAH,white
+183,"Jul 1, 2020",win,38,10 min,https://www.chess.com/analysis/game/live/5087429529,1696,1624,Morocco,Hamid1958,black
+184,"Jul 1, 2020",loss,37,10 min,https://www.chess.com/analysis/game/live/5085127833,1689,1717,India,janardana,white
+185,"Jun 30, 2020",loss,41,10 min,https://www.chess.com/analysis/game/live/5082728860,1697,1689,Mexico,scandax,white
+186,"Jun 30, 2020",loss,11,10 min,https://www.chess.com/analysis/game/live/5082721326,1706,1700,United States,zitfree,black
+187,"Jun 30, 2020",win,63,10 min,https://www.chess.com/analysis/game/live/5082344435,1715,1604,Mexico,bartre1,white
+188,"Jun 30, 2020",loss,49,10 min,https://www.chess.com/analysis/game/live/5082177492,1709,1656,Philippines,jhericodeleon,black
+189,"Jun 30, 2020",loss,13,10 min,https://www.chess.com/analysis/game/live/5080897058,1719,1750,Albania,Bakigramsh,white
+190,"Jun 30, 2020",win,16,10 min,https://www.chess.com/analysis/game/live/5080374315,1727,1741,United States,richardpope66,white
+191,"Jun 29, 2020",loss,25,10 min,https://www.chess.com/analysis/game/live/5077253974,1718,1732,United States,muhamed1958,black
+192,"Jun 29, 2020",win,45,10 min,https://www.chess.com/analysis/game/live/5077181707,1726,1681,International,makebelieve,black
+193,"Jun 29, 2020",win,35,10 min,https://www.chess.com/analysis/game/live/5077137624,1719,1721,Canada,xlbravo,white
+194,"Jun 29, 2020",win,33,10 min,https://www.chess.com/analysis/game/live/5075544153,1711,1743,Austria,ivanmatovina,error
+195,"Jun 29, 2020",win,57,10 min,https://www.chess.com/analysis/game/live/5074163804,1702,1693,Indonesia,purwanto88,black
+196,"Jun 28, 2020",loss,28,10 min,https://www.chess.com/analysis/game/live/5072206779,1694,1774,Spain,milautos,white
+197,"Jun 28, 2020",win,23,10 min,https://www.chess.com/analysis/game/live/5072164463,1700,1714,United States,astor1511,white
+198,"Jun 28, 2020",loss,20,10 min,https://www.chess.com/analysis/game/live/5071100885,1691,1681,Finland,Timzu,black
+199,"Jun 28, 2020",loss,44,10 min,https://www.chess.com/analysis/game/live/5070134829,1700,1669,Mozambique,amanhique,white
+200,"Jun 28, 2020",win,35,10 min,https://www.chess.com/analysis/game/live/5070067509,1709,1660,Mozambique,amanhique,black
+201,"Jun 28, 2020",win,32,10 min,https://www.chess.com/analysis/game/live/5070041313,1702,1667,Mozambique,amanhique,white
+202,"Jun 28, 2020",loss,11,10 min,https://www.chess.com/analysis/game/live/5070020820,1694,1679,Russia,fatal463,white
+203,"Jun 27, 2020",win,32,10 min,https://www.chess.com/analysis/game/live/5067633509,1703,1690,United States,uvaliente,black
+204,"Jun 27, 2020",win,62,10 min,https://www.chess.com/analysis/game/live/5067349699,1695,1698,Brazil,cbcampos,white
+205,"Jun 27, 2020",loss,20,10 min,https://www.chess.com/analysis/game/live/5067334051,1687,1657,United States,Potatoxz,black
+206,"Jun 27, 2020",loss,32,10 min,https://www.chess.com/analysis/game/live/5065627227,1696,1642,Serbia,dusan_982,black
+207,"Jun 26, 2020",loss,40,10 min,https://www.chess.com/analysis/game/live/5062662896,1706,1743,Italy,Black666ers,white
+208,"Jun 26, 2020",win,19,10 min,https://www.chess.com/analysis/game/live/5062638072,1713,1686,France,p0pstar,black
+209,"Jun 26, 2020",draw,45,10 min,https://www.chess.com/analysis/game/live/5062327118,1705,1689,Czech Republic,luboslubos,black
+210,"Jun 26, 2020",loss,14,10 min,https://www.chess.com/analysis/game/live/5062247948,1705,1689,Dominican Republic,ronaldenrrique,black
+211,"Jun 26, 2020",win,27,10 min,https://www.chess.com/analysis/game/live/5062207765,1714,1730,United States,c1anatoliy,white
+212,"Jun 26, 2020",loss,6,10 min,https://www.chess.com/analysis/game/live/5061985029,1705,1785,Germany,chessgrm,white
+213,"Jun 26, 2020",win,43,10 min,https://www.chess.com/analysis/game/live/5061893347,1711,1665,Norway,shaoli57,white
+214,"Jun 26, 2020",draw,40,10 min,https://www.chess.com/analysis/game/live/5059392569,1704,1678,Italy,tancredi01,error
+215,"Jun 25, 2020",loss,14,10 min,https://www.chess.com/analysis/game/live/5057975611,1705,1810,Indonesia,SyakirMastur,white
+216,"Jun 25, 2020",win,65,10 min,https://www.chess.com/analysis/game/live/5056389100,1711,1732,India,prakash_m,white
+217,"Jun 25, 2020",win,34,10 min,https://www.chess.com/analysis/game/live/5056352888,1702,1774,Serbia,gaga90,white
+218,"Jun 25, 2020",loss,27,10 min,https://www.chess.com/analysis/game/live/5056241665,1692,1729,Hungary,Patko0509,black
+219,"Jun 25, 2020",loss,34,10 min,https://www.chess.com/analysis/game/live/5056213370,1699,1735,Russia,alnewcomer,black
+220,"Jun 25, 2020",loss,27,10 min,https://www.chess.com/analysis/game/live/5056174336,1706,1663,Mexico,luz112233,black
+221,"Jun 24, 2020",win,21,10 min,https://www.chess.com/analysis/game/live/5053167651,1715,1704,Indonesia,kosmasbambangp,white
+222,"Jun 24, 2020",win,12,10 min,https://www.chess.com/analysis/game/live/5053159634,1707,1712,Indonesia,kosmasbambangp,black
+223,"Jun 24, 2020",loss,26,10 min,https://www.chess.com/analysis/game/live/5053145849,1699,1720,Indonesia,kosmasbambangp,white
+224,"Jun 24, 2020",win,20,10 min,https://www.chess.com/analysis/game/live/5053130240,1707,1712,Indonesia,kosmasbambangp,black
+225,"Jun 24, 2020",win,69,10 min,https://www.chess.com/analysis/game/live/5051023557,1698,1616,Tunisia,KhaledEsbk,white
+226,"Jun 24, 2020",loss,34,10 min,https://www.chess.com/analysis/game/live/5050652510,1692,1706,Brazil,survivorpc,black
+227,"Jun 24, 2020",win,22,10 min,https://www.chess.com/analysis/game/live/5050553194,1700,1614,Serbia,matija13,white
+228,"Jun 24, 2020",win,20,10 min,https://www.chess.com/analysis/game/live/5050528781,1694,1693,Italy,ladrone74,white
+229,"Jun 23, 2020",loss,48,10 min,https://www.chess.com/analysis/game/live/5047863765,1686,1817,Peru,silvaguerrero,white
+230,"Jun 23, 2020",win,54,10 min,https://www.chess.com/analysis/game/live/5047807515,1691,1595,Serbia,Herakle1,white
+231,"Jun 23, 2020",loss,50,10 min,https://www.chess.com/analysis/game/live/5047192072,1685,1645,Peru,palacios_fabian,black
+232,"Jun 23, 2020",win,38,10 min,https://www.chess.com/analysis/game/live/5047124734,1694,1636,Peru,palacios_fabian,white
+233,"Jun 23, 2020",win,21,10 min,https://www.chess.com/analysis/game/live/5044839089,1687,1650,Egypt,Tarekhamedabdou,black
+234,"Jun 22, 2020",loss,47,10 min,https://www.chess.com/analysis/game/live/5042863500,1679,1711,United Kingdom,mso2020,black
+235,"Jun 22, 2020",win,42,10 min,https://www.chess.com/analysis/game/live/5042773257,1687,1665,Philippines,counter166,black
+236,"Jun 22, 2020",loss,28,10 min,https://www.chess.com/analysis/game/live/5042751399,1679,1558,South Africa,rhulaniM,white
+237,"Jun 22, 2020",win,53,10 min,https://www.chess.com/analysis/game/live/5042716308,1690,1719,Peru,leoriv,black
+238,"Jun 22, 2020",loss,24,10 min,https://www.chess.com/analysis/game/live/5042671467,1681,1717,United States,Upstarts,black
+239,"Jun 22, 2020",loss,8,10 min,https://www.chess.com/analysis/game/live/5041920025,1689,1722,Ukraine,Vania7777,white
+240,"Jun 22, 2020",win,31,10 min,https://www.chess.com/analysis/game/live/5041877938,1697,1714,Ukraine,Vania7777,black
+241,"Jun 22, 2020",win,49,10 min,https://www.chess.com/analysis/game/live/5041797860,1688,1762,Croatia,Oktalzr,white
+242,"Jun 21, 2020",win,74,5 min,https://www.chess.com/analysis/game/live/5038100116,1678,1689,United States,Moonlighter321,white
+243,"Jun 21, 2020",win,24,3|2,https://www.chess.com/analysis/game/live/5037485251,1669,1326,Brazil,elsamuh,white
+244,"Jun 21, 2020",draw,67,3|2,https://www.chess.com/analysis/game/live/5037451009,1667,1674,Brazil,LuccasRossetto,white
+245,"Jun 21, 2020",win,37,3|2,https://www.chess.com/analysis/game/live/5037417992,1667,1694,Brazil,MarceloAlves,error
+246,"Jun 21, 2020",loss,67,3|2,https://www.chess.com/analysis/game/live/5037378789,1658,1579,Brazil,Leonilson,black
+247,"Jun 21, 2020",win,20,3|2,https://www.chess.com/analysis/game/live/5037366853,1669,1105,Brazil,danielwto,black
+248,"Jun 21, 2020",loss,26,3|2,https://www.chess.com/analysis/game/live/5037338262,1668,1597,Brazil,jotafortuna,white
+249,"Jun 20, 2020",loss,34,3|2,https://www.chess.com/analysis/game/live/5033304585,1679,1535,Australia,a2a4b1c3,black
+250,"Jun 20, 2020",win,40,5 min,https://www.chess.com/analysis/game/live/5033267259,1691,1730,Malaysia,edderz18,white
+251,"Jun 20, 2020",win,55,10 min,https://www.chess.com/analysis/game/live/5032898982,1681,1669,International,bearfighter,black
+252,"Jun 20, 2020",win,40,10 min,https://www.chess.com/analysis/game/live/5032829936,1673,1622,Indonesia,Udin70Sausu,black
+253,"Jun 19, 2020",win,65,10 min,https://www.chess.com/analysis/game/live/5027596998,1665,1647,United States,JoeSinai,white
+254,"Jun 19, 2020",win,31,10 min,https://www.chess.com/analysis/game/live/5027540907,1656,1618,Nigeria,Sheddie,white
+255,"Jun 16, 2020",win,33,5 min,https://www.chess.com/analysis/game/live/5010728439,1648,1604,Russia,assss88,white
+256,"Jun 15, 2020",loss,19,5 min,https://www.chess.com/analysis/game/live/5008126371,1640,1609,United States,WalangTalo,black
+257,"Jun 15, 2020",loss,13,5 min,https://www.chess.com/analysis/game/live/5008120219,1650,1689,New Zealand,Sinbadlivz,black
+258,"Jun 15, 2020",loss,61,5 min,https://www.chess.com/analysis/game/live/5008088896,1659,1735,Peru,Uriel2801,black
+259,"Jun 14, 2020",loss,22,5 min,https://www.chess.com/analysis/game/live/5002297641,1667,1686,India,UpbeatLantern,white
+260,"Jun 14, 2020",loss,26,5 min,https://www.chess.com/analysis/game/live/5002258378,1677,1751,Germany,Gettly,white
+261,"Jun 14, 2020",win,37,5 min,https://www.chess.com/analysis/game/live/5002217790,1685,1624,Wales,Roarer,white
+262,"Jun 7, 2020",loss,43,10 min,https://www.chess.com/analysis/game/live/4966687625,1676,1729,Armenia,nersesyan,black
+263,"Apr 28, 2020",win,44,10 min,https://www.chess.com/analysis/game/live/4785444104,1685,1651,Bosnia-Herzegovina,klx97,black
+264,"Apr 21, 2020",win,36,10 min,https://www.chess.com/analysis/game/live/4752757637,1677,1610,United States,cesaermichael,white
+265,"Apr 21, 2020",win,27,10 min,https://www.chess.com/analysis/game/live/4752715876,1670,1622,Colombia,hcastaneda,black
+266,"Apr 16, 2020",loss,33,10 min,https://www.chess.com/analysis/game/live/4731650314,1663,1675,United States,Emilio2010,black
+267,"Apr 16, 2020",win,63,10 min,https://www.chess.com/analysis/game/live/4730585041,1671,1703,United Kingdom,Zygyvypt,white
+268,"Apr 16, 2020",loss,33,10 min,https://www.chess.com/analysis/game/live/4730301381,1662,1679,France,voicesurgery,white
+269,"Apr 8, 2020",win,55,10 min,https://www.chess.com/analysis/game/live/4694319887,1670,1662,Serbia,OBRAD964,black
+270,"Apr 5, 2020",loss,27,10 min,https://www.chess.com/analysis/game/live/4682164759,1662,1693,United Kingdom,Oxytocin,white
+271,"Apr 5, 2020",win,21,10 min,https://www.chess.com/analysis/game/live/4682122588,1670,1679,Albania,vidancobani30,white
+272,"Apr 4, 2020",win,22,10 min,https://www.chess.com/analysis/game/live/4680048052,1661,1619,United States,hkuang,white
+273,"Apr 3, 2020",win,53,10 min,https://www.chess.com/analysis/game/live/4674456906,1654,1655,Italy,giuseppe_ferrigno,black
+274,"Apr 1, 2020",win,43,10 min,https://www.chess.com/analysis/game/live/4667421296,1646,1583,Brazil,Paulolix,black
+275,"Apr 1, 2020",win,14,10 min,https://www.chess.com/analysis/game/live/4667401690,1639,1665,Australia,Scytic,white
+276,"Apr 1, 2020",loss,8,10 min,https://www.chess.com/analysis/game/live/4666334822,1630,1613,Bulgaria,nikolovdimcho,black
+277,"Mar 29, 2020",loss,13,10 min,https://www.chess.com/analysis/game/live/4652700120,1639,1636,Russia,xvladd,black
+278,"Mar 26, 2020",loss,12,10 min,https://www.chess.com/analysis/game/live/4641466595,1647,1675,Switzerland,ThePossumGJ,error
+279,"Mar 25, 2020",loss,42,5 min,https://www.chess.com/analysis/game/live/4638174549,1655,1660,United States,saltman2,white
+280,"Mar 23, 2020",loss,26,10 min,https://www.chess.com/analysis/game/live/4630163471,1663,1670,Vietnam,thandongcovua2004,error
+281,"Mar 23, 2020",loss,30,10 min,https://www.chess.com/analysis/game/live/4630130605,1671,1725,Argentina,platoo01,white
+282,"Mar 20, 2020",loss,8,10 min,https://www.chess.com/analysis/game/live/4618024543,1678,1675,Israel,jony_B_good,white
+283,"Mar 17, 2020",loss,29,10 min,https://www.chess.com/analysis/game/live/4606705791,1686,1712,United States,LexCnote,white
+284,"Mar 17, 2020",loss,40,10 min,https://www.chess.com/analysis/game/live/4605338415,1694,1631,Argentina,luchito9000,white
+285,"Mar 16, 2020",loss,26,10 min,https://www.chess.com/analysis/game/live/4602655559,1704,1667,Spain,manzanera,black
+286,"Mar 16, 2020",loss,45,10 min,https://www.chess.com/analysis/game/live/4600679084,1713,1691,Bulgaria,bobo111,black
+287,"Mar 16, 2020",win,16,10 min,https://www.chess.com/analysis/game/live/4600627945,1722,1675,Montenegro,vukas1951,black
+288,"Mar 15, 2020",loss,31,10 min,https://www.chess.com/analysis/game/live/4599302942,1715,1708,United States,ggenshaft,white
+289,"Mar 15, 2020",loss,38,10 min,https://www.chess.com/analysis/game/live/4597773680,1724,1710,Bulgaria,nikterz,black
+290,"Mar 14, 2020",win,58,10 min,https://www.chess.com/analysis/game/live/4593924335,1733,1670,India,Biplabks,white
+291,"Mar 14, 2020",loss,45,10 min,https://www.chess.com/analysis/game/live/4593283885,1726,1749,Brazil,Sacr,black
+292,"Mar 13, 2020",win,40,10 min,https://www.chess.com/analysis/game/live/4592221428,1734,1718,United States,sergeyzimin,white
+293,"Mar 13, 2020",win,16,10 min,https://www.chess.com/analysis/game/live/4592033868,1726,1708,Uzbekistan,morales2216,black
+294,"Mar 12, 2020",loss,53,10 min,https://www.chess.com/analysis/game/live/4588093360,1718,1733,Sweden,Maveast,white
+295,"Mar 11, 2020",loss,57,10 min,https://www.chess.com/analysis/game/live/4584819740,1711,1724,Congo,NewHire,white
+296,"Mar 11, 2020",win,51,10 min,https://www.chess.com/analysis/game/live/4584491692,1719,1611,Iran,habib_syr50,black
+297,"Mar 11, 2020",win,30,10 min,https://www.chess.com/analysis/game/live/4584471006,1713,1621,Russia,Oshibka101,white
+298,"Mar 10, 2020",win,55,10 min,https://www.chess.com/analysis/game/live/4581894436,1707,1687,Indonesia,antimombahpetruk,white
+299,"Mar 10, 2020",win,51,10 min,https://www.chess.com/analysis/game/live/4581786213,1699,1645,Italy,giomar2000,white
+300,"Mar 10, 2020",win,66,10 min,https://www.chess.com/analysis/game/live/4581748305,1692,1613,Turkey,tlgctl27,black
+301,"Mar 9, 2020",loss,16,10 min,https://www.chess.com/analysis/game/live/4578472312,1685,1687,Serbia,007ivan971,white
+302,"Mar 9, 2020",win,31,10 min,https://www.chess.com/analysis/game/live/4578456378,1693,1638,Albania,beni-ibi,black
+303,"Mar 9, 2020",win,25,10 min,https://www.chess.com/analysis/game/live/4578439974,1686,1645,Albania,beni-ibi,white
+304,"Mar 9, 2020",loss,29,10 min,https://www.chess.com/analysis/game/live/4577873441,1679,1764,United States,guicopiano,black
+305,"Mar 9, 2020",loss,24,10 min,https://www.chess.com/analysis/game/live/4577859404,1685,1732,Croatia,penzic,black
+306,"Mar 9, 2020",win,42,10 min,https://www.chess.com/analysis/game/live/4577617590,1692,1703,United States,arkboater,white
+307,"Mar 9, 2020",win,40,10 min,https://www.chess.com/analysis/game/live/4577018259,1683,1584,Russia,bmi1961,error
+308,"Mar 9, 2020",loss,14,10 min,https://www.chess.com/analysis/game/live/4576844049,1677,1718,Canary Islands,gladiatordj1,white
+309,"Mar 9, 2020",loss,14,10 min,https://www.chess.com/analysis/game/live/4576834175,1684,1711,Canary Islands,gladiatordj1,error
+310,"Mar 9, 2020",win,28,10 min,https://www.chess.com/analysis/game/live/4576809372,1692,1703,Canary Islands,gladiatordj1,white
+311,"Mar 9, 2020",loss,43,10 min,https://www.chess.com/analysis/game/live/4576676290,1683,1773,Albania,knumani,white
+312,"Mar 8, 2020",win,76,10 min,https://www.chess.com/analysis/game/live/4573993025,1689,1733,Russia,FanyaShipova,black
+313,"Mar 8, 2020",win,31,10 min,https://www.chess.com/analysis/game/live/4573638571,1680,1618,Hungary,istvan_fodor,black
+314,"Mar 8, 2020",loss,13,10 min,https://www.chess.com/analysis/game/live/4572964080,1673,1782,Philippines,DodzFjr2017,white
+315,"Mar 7, 2020",loss,25,10 min,https://www.chess.com/analysis/game/live/4571925564,1679,1732,Bolivia,dtrujillo,white
+316,"Mar 7, 2020",win,61,10 min,https://www.chess.com/analysis/game/live/4571144181,1686,1740,Israel,vladifedor,black
+317,"Mar 7, 2020",loss,21,10 min,https://www.chess.com/analysis/game/live/4570831204,1676,1698,Russia,nikolay_piskarev,black
+318,"Mar 7, 2020",win,64,10 min,https://www.chess.com/analysis/game/live/4570780311,1684,1666,Pakistan,gujratpk,white
+319,"Mar 6, 2020",win,36,10 min,https://www.chess.com/analysis/game/live/4568725499,1676,1676,United States,EvDMC,error
+320,"Mar 6, 2020",win,39,10 min,https://www.chess.com/analysis/game/live/4567635082,1668,1604,Australia,kazem11,black
+321,"Mar 6, 2020",loss,15,10 min,https://www.chess.com/analysis/game/live/4567405174,1661,1684,United States,Tundra2006,white
+322,"Mar 6, 2020",win,65,10 min,https://www.chess.com/analysis/game/live/4567220726,1669,1618,Italy,templare-,white
+323,"Mar 6, 2020",win,16,10 min,https://www.chess.com/analysis/game/live/4567208639,1662,1621,Bangladesh,niksonnn,black
+324,"Mar 6, 2020",loss,24,10 min,https://www.chess.com/analysis/game/live/4566477295,1655,1673,United States,sqeep,white
+325,"Mar 5, 2020",win,64,10 min,https://www.chess.com/analysis/game/live/4563707755,1663,1665,Bangladesh,Skmtpcvc,black
+326,"Mar 5, 2020",win,26,10 min,https://www.chess.com/analysis/game/live/4563675595,1655,1655,United States,puttyknife,white
+327,"Mar 4, 2020",loss,61,10 min,https://www.chess.com/analysis/game/live/4561771226,1647,1631,Brazil,Clandio,white
+328,"Mar 4, 2020",win,32,10 min,https://www.chess.com/analysis/game/live/4561734364,1656,1679,Serbia,sever9,black
+329,"Mar 4, 2020",win,26,10 min,https://www.chess.com/analysis/game/live/4560962235,1647,1674,Peru,CAYAMA360,black
+330,"Mar 4, 2020",win,33,10 min,https://www.chess.com/analysis/game/live/4560703540,1638,1594,Indonesia,putukaisar1,white
+331,"Mar 3, 2020",win,25,10 min,https://www.chess.com/analysis/game/live/4557901133,1631,1608,Albania,Naqe99,black
+332,"Mar 3, 2020",win,30,10 min,https://www.chess.com/analysis/game/live/4557877488,1623,1486,Iran,moslemmaleki,black
+333,"Mar 3, 2020",win,4,10 min,https://www.chess.com/analysis/game/live/4557238024,1618,1679,India,shakeelb703,white
+334,"Mar 2, 2020",win,46,10 min,https://www.chess.com/analysis/game/live/4555360017,1608,1637,Philippines,spalto,black
+335,"Mar 2, 2020",loss,27,10 min,https://www.chess.com/analysis/game/live/4555301205,1599,1502,United States,tbird5th,white
+336,"Mar 2, 2020",loss,10,10 min,https://www.chess.com/analysis/game/live/4555246208,1610,1558,United States,DiyarzaLeinier777,black
+337,"Mar 2, 2020",win,44,10 min,https://www.chess.com/analysis/game/live/4555204752,1620,1585,Spain,Celmavlc,white
+338,"Mar 2, 2020",win,27,10 min,https://www.chess.com/analysis/game/live/4554684159,1612,1615,United States,Aramarama,white
+339,"Mar 1, 2020",loss,20,10 min,https://www.chess.com/analysis/game/live/4552063663,1604,1628,South Africa,bullydm,black
+340,"Mar 1, 2020",win,35,10 min,https://www.chess.com/analysis/game/live/4552042430,1612,1620,South Africa,bullydm,white
+341,"Mar 1, 2020",win,16,10 min,https://www.chess.com/analysis/game/live/4552021812,1603,1622,United States,Force7402,white
+342,"Mar 1, 2020",win,40,10 min,https://www.chess.com/analysis/game/live/4551999295,1594,1570,Croatia,vedranbukovac,black
+343,"Mar 1, 2020",loss,29,10 min,https://www.chess.com/analysis/game/live/4551981157,1586,1622,United Kingdom,attackforce666,black
+344,"Mar 1, 2020",loss,50,10 min,https://www.chess.com/analysis/game/live/4551751722,1594,1608,Czech Republic,Ilweran,error
+345,"Mar 1, 2020",win,32,10 min,https://www.chess.com/analysis/game/live/4551716098,1602,1512,International,RustyLama10,white
+346,"Mar 1, 2020",win,61,10 min,https://www.chess.com/analysis/game/live/4549966953,1596,1557,England,AmeliaSail,black
+347,"Feb 28, 2020",loss,23,10 min,https://www.chess.com/analysis/game/live/4544329483,1588,1678,Georgia,giorgikada,white
+348,"Feb 28, 2020",loss,40,10 min,https://www.chess.com/analysis/game/live/4544279212,1594,1672,Georgia,giorgikada,black
+349,"Feb 25, 2020",loss,37,10 min,https://www.chess.com/analysis/game/live/4533623032,1601,1593,Albania,GjyshiSkender,white
+350,"Feb 24, 2020",win,33,10 min,https://www.chess.com/analysis/game/live/4531829966,1610,1569,Ukraine,Mikhail_Volkov,error
+351,"Feb 24, 2020",loss,27,10 min,https://www.chess.com/analysis/game/live/4530099375,1603,1629,Iran,mad77,white
+352,"Feb 24, 2020",win,59,10 min,https://www.chess.com/analysis/game/live/4530075468,1611,1581,Nigeria,ioriaifo,white
+353,"Feb 24, 2020",win,35,10 min,https://www.chess.com/analysis/game/live/4530048840,1603,1546,Saudi Arabia,r7c,black
+354,"Feb 23, 2020",loss,12,10 min,https://www.chess.com/analysis/game/live/4526681586,1596,1609,Malawi,Asiandy,white
+355,"Feb 22, 2020",loss,28,10 min,https://www.chess.com/analysis/game/live/4523479739,1604,1611,Bangladesh,azizsumon,black
+356,"Feb 22, 2020",loss,18,10 min,https://www.chess.com/analysis/game/live/4523472384,1612,1603,Bangladesh,azizsumon,white
+357,"Feb 22, 2020",win,18,10 min,https://www.chess.com/analysis/game/live/4523459662,1621,1594,Bangladesh,azizsumon,black
+358,"Feb 20, 2020",loss,37,10 min,https://www.chess.com/analysis/game/live/4519339351,1613,1633,Brazil,jlabeschess,white
+359,"Feb 20, 2020",win,29,10 min,https://www.chess.com/analysis/game/live/4519315424,1621,1620,Brazil,maxbuch,black
+360,"Feb 20, 2020",draw,65,10 min,https://www.chess.com/analysis/game/live/4519062583,1613,1658,Palestine,Waeljhb,white
+361,"Feb 20, 2020",win,73,10 min,https://www.chess.com/analysis/game/live/4519017466,1612,1534,International,pchakh,black
+362,"Feb 20, 2020",loss,12,10 min,https://www.chess.com/analysis/game/live/4519008901,1605,1696,Russia,SalavatUlaev25,white
+363,"Feb 20, 2020",loss,21,10 min,https://www.chess.com/analysis/game/live/4518984810,1611,1672,France,kayblanc,black
+364,"Feb 20, 2020",win,56,10 min,https://www.chess.com/analysis/game/live/4517965423,1618,1628,Brazil,bastiaoxyz,white
+365,"Feb 19, 2020",win,51,10 min,https://www.chess.com/analysis/game/live/4516012707,1609,1529,Serbia,mlandimovski,black
+366,"Feb 19, 2020",win,15,10 min,https://www.chess.com/analysis/game/live/4516003119,1602,1565,United States,RedzoneReligion,error
+367,"Feb 19, 2020",loss,8,10 min,https://www.chess.com/analysis/game/live/4516001003,1594,1596,United States,player_773,white
+368,"Feb 19, 2020",win,46,10 min,https://www.chess.com/analysis/game/live/4515971236,1602,1658,United States,gutin11,white
+369,"Feb 14, 2020",loss,24,10 min,https://www.chess.com/analysis/game/live/4497289083,1592,1628,Zambia,mziii3,black
+370,"Feb 13, 2020",win,17,10 min,https://www.chess.com/analysis/game/live/4494084999,1599,1643,Philippines,aye725,white
+371,"Feb 11, 2020",loss,23,10 min,https://www.chess.com/analysis/game/live/4488223884,1590,1632,France,philou87541,white
+372,"Feb 10, 2020",loss,23,10 min,https://www.chess.com/analysis/game/live/4486367920,1597,1604,International,nutkhut007,black
+373,"Feb 10, 2020",win,54,10 min,https://www.chess.com/analysis/game/live/4486339726,1605,1596,International,nutkhut007,white
+374,"Feb 9, 2020",win,25,10 min,https://www.chess.com/analysis/game/live/4482998962,1597,1556,Dominican Republic,MAXUELLLANDA,black
+375,"Feb 9, 2020",win,41,10 min,https://www.chess.com/analysis/game/live/4482963764,1590,1448,Canada,koulisk,black
+376,"Feb 3, 2020",win,24,10 min,https://www.chess.com/analysis/game/live/4463664734,1585,1602,Switzerland,derErsteMensch,black
+377,"Feb 2, 2020",win,58,10 min,https://www.chess.com/analysis/game/live/4459371313,1576,1542,Russia,vladmen2,white
+378,"Feb 2, 2020",win,44,10 min,https://www.chess.com/analysis/game/live/4459330200,1568,1519,Egypt,maxlife2050,white
+379,"Jan 30, 2020",loss,12,10 min,https://www.chess.com/analysis/game/live/4449863017,1561,1589,Latvia,lordloredo,black
+380,"Jan 29, 2020",win,23,10 min,https://www.chess.com/analysis/game/live/4446835414,1569,1511,Bulgaria,Aleksandar_Duev,white
+381,"Jan 26, 2020",win,34,10 min,https://www.chess.com/analysis/game/live/4437310774,1562,1522,Spain,papadidi,white
+382,"Jan 25, 2020",loss,25,10 min,https://www.chess.com/analysis/game/live/4435355447,1555,1606,United Kingdom,pmanepalli,black
+383,"Jan 24, 2020",loss,16,10 min,https://www.chess.com/analysis/game/live/4432037172,1562,1620,United States,elcachorrito,black
+384,"Jan 24, 2020",win,43,10 min,https://www.chess.com/analysis/game/live/4431940855,1569,1466,United States,BigPeep,error
+385,"Jan 23, 2020",loss,40,10 min,https://www.chess.com/analysis/game/live/4428038446,1563,1659,Croatia,Zec14,black
+386,"Jan 22, 2020",loss,49,10 min,https://www.chess.com/analysis/game/live/4425235643,1569,1604,Lithuania,vladimirchomenko,white
+387,"Jan 21, 2020",draw,70,10 min,https://www.chess.com/analysis/game/live/4422379440,1577,1575,Philippines,lolongjr,white
+388,"Jan 21, 2020",win,59,10 min,https://www.chess.com/analysis/game/live/4422138979,1577,1549,Brazil,Anarowa,black
+389,"Jan 21, 2020",win,18,10 min,https://www.chess.com/analysis/game/live/4422128681,1569,1557,Brazil,Anarowa,white
+390,"Jan 21, 2020",win,67,10 min,https://www.chess.com/analysis/game/live/4422074032,1561,1565,Brazil,Anarowa,black
+391,"Jan 20, 2020",win,36,10 min,https://www.chess.com/analysis/game/live/4418978392,1553,1579,United States,ju197afot,white
+392,"Jan 20, 2020",win,21,10 min,https://www.chess.com/analysis/game/live/4416836941,1544,1517,Lithuania,montanas,white
+393,"Jan 19, 2020",win,47,10 min,https://www.chess.com/analysis/game/live/4414324210,1536,1563,Bangladesh,rakibhasan947,black
+394,"Jan 19, 2020",win,17,10 min,https://www.chess.com/analysis/game/live/4414310300,1527,1546,Syria,abd19556,white
+395,"Jan 15, 2020",loss,14,10 min,https://www.chess.com/analysis/game/live/4401541409,1518,1511,Kenya,samnjamiu,black
+396,"Jan 13, 2020",loss,12,10 min,https://www.chess.com/analysis/game/live/4396088950,1519,1543,Brazil,eduardorossi,error
+397,"Jan 12, 2020",win,10,10 min,https://www.chess.com/analysis/game/live/4393425629,1527,1522,Brazil,aliceltics,white
+398,"Jan 12, 2020",win,37,10 min,https://www.chess.com/analysis/game/live/4391772681,1519,1502,Turkey,Huysuzihtiyar,white
+399,"Jan 12, 2020",loss,18,10 min,https://www.chess.com/analysis/game/live/4391756278,1511,1643,United States,luay925,black
+400,"Jan 11, 2020",loss,24,10 min,https://www.chess.com/analysis/game/live/4388824399,1516,1518,United States,SuperPopcorn,white
+401,"Jan 10, 2020",loss,33,10 min,https://www.chess.com/analysis/game/live/4385559391,1524,1570,Armenia,vach060,black
+402,"Jan 10, 2020",win,43,10 min,https://www.chess.com/analysis/game/live/4384979063,1531,1447,Canada,plasma1147,white
+403,"Jan 10, 2020",loss,28,10 min,https://www.chess.com/analysis/game/live/4384657626,1525,1518,Indonesia,adi5000,white
+404,"Jan 10, 2020",win,26,10 min,https://www.chess.com/analysis/game/live/4384641777,1534,1393,Albania,kadr0000,white
+405,"Jan 9, 2020",loss,38,10 min,https://www.chess.com/analysis/game/live/4383133146,1529,1614,Russia,Andre3564,black
+406,"Jan 9, 2020",draw,59,5 min,https://www.chess.com/analysis/game/live/4381874403,1535,1556,United Kingdom,Kurtiii,white
+407,"Jan 9, 2020",loss,31,5 min,https://www.chess.com/analysis/game/live/4381837401,1535,1577,Armenia,khachvard,black
+408,"Jan 9, 2020",loss,41,5 min,https://www.chess.com/analysis/game/live/4381498037,1542,1490,France,pat786786,black
+409,"Jan 8, 2020",loss,58,10 min,https://www.chess.com/analysis/game/live/4378729650,1552,1535,Slovenia,bozo_chess,white
+410,"Jan 8, 2020",win,60,10 min,https://www.chess.com/analysis/game/live/4378703480,1561,1526,Slovenia,bozo_chess,black
+411,"Jan 8, 2020",win,25,10 min,https://www.chess.com/analysis/game/live/4378683835,1553,1527,Vietnam,mnc041,white
+412,"Jan 7, 2020",draw,71,10 min,https://www.chess.com/analysis/game/live/4375893921,1545,1460,United States,PlayMorenMore,black
+413,"Jan 7, 2020",win,37,10 min,https://www.chess.com/analysis/game/live/4375840772,1547,1534,Austria,Rochade27,white
+414,"Jan 7, 2020",win,32,10 min,https://www.chess.com/analysis/game/live/4375812633,1539,1518,Philippines,Roydz29,black
+415,"Jan 6, 2020",win,63,5 min,https://www.chess.com/analysis/game/live/4372446877,1531,1512,Saudi Arabia,abokriek,white
+416,"Jan 4, 2020",win,68,5 min,https://www.chess.com/analysis/game/live/4366049455,1523,1500,Romania,dani77bv,black
+417,"Jan 3, 2020",win,32,5 min,https://www.chess.com/analysis/game/live/4363835942,1515,1475,Aruba,kar-ploff,white
+418,"Jan 3, 2020",win,21,5 min,https://www.chess.com/analysis/game/live/4363820724,1508,1503,Russia,Daniel_Potravnyy,white
+419,"Jan 3, 2020",win,15,5 min,https://www.chess.com/analysis/game/live/4363806443,1500,1529,United States,Copawn,error
+420,"Jan 3, 2020",loss,24,5 min,https://www.chess.com/analysis/game/live/4363783729,1491,1471,France,fredholz,black
+421,"Jan 3, 2020",win,12,5 min,https://www.chess.com/analysis/game/live/4363776385,1500,1482,United Kingdom,richyggg,white
+422,"Jan 1, 2020",loss,44,5 min,https://www.chess.com/analysis/game/live/4356163095,1492,1515,United States,knightmagic56,white
+423,"Jan 1, 2020",loss,7,5 min,https://www.chess.com/analysis/game/live/4356158017,1500,1448,Philippines,melvinjasond,black
+424,"Jan 1, 2020",loss,12,5 min,https://www.chess.com/analysis/game/live/4356132989,1510,1527,United Kingdom,bluenose32,white
+425,"Jan 1, 2020",loss,8,5 min,https://www.chess.com/analysis/game/live/4356129943,1518,1559,United States,student2007,black
+426,"Jan 1, 2020",win,11,5 min,https://www.chess.com/analysis/game/live/4356031507,1525,1495,Netherlands,Yoramski,white
+427,"Jan 1, 2020",loss,26,5 min,https://www.chess.com/analysis/game/live/4356011735,1517,1531,Turkey,aekonuksever,white
+428,"Jan 1, 2020",loss,38,5 min,https://www.chess.com/analysis/game/live/4355498210,1525,1506,Israel,uri_hecht,black
+429,"Dec 31, 2019",loss,32,5 min,https://www.chess.com/analysis/game/live/4354816371,1534,1579,Chile,Tanozuke,black
+430,"Dec 24, 2019",loss,24,5 min,https://www.chess.com/analysis/game/live/4330008506,1541,1553,United States,ericgre,white
+431,"Dec 24, 2019",loss,13,5 min,https://www.chess.com/analysis/game/live/4330001253,1549,1544,South Africa,SiekRot,black
+432,"Dec 23, 2019",win,29,5 min,https://www.chess.com/analysis/game/live/4328847698,1558,1556,United States,WalangTalo,white
+433,"Dec 23, 2019",win,28,5 min,https://www.chess.com/analysis/game/live/4328833665,1550,1489,Colombia,u_235,black
+434,"Dec 13, 2019",loss,58,10 min,https://www.chess.com/analysis/game/live/4296371984,1543,1571,Malaysia,mdlouis,error
+435,"Nov 24, 2019",loss,17,5 min,https://www.chess.com/analysis/game/live/4240462083,1551,1540,United States,Workmane,white
+436,"Nov 24, 2019",win,18,5 min,https://www.chess.com/analysis/game/live/4240457302,1560,1534,United States,yowhyamialive,black
+437,"Nov 24, 2019",win,22,5 min,https://www.chess.com/analysis/game/live/4240449265,1552,1552,Brazil,antoniocodina,white
+438,"Nov 16, 2019",win,40,10 min,https://www.chess.com/analysis/game/live/4216328360,1544,1547,Spain,yoquese,white
+439,"Nov 16, 2019",win,16,10 min,https://www.chess.com/analysis/game/live/4216321452,1536,1402,Canada,MacLean00,black
+440,"Nov 9, 2019",loss,28,10 min,https://www.chess.com/analysis/game/live/4194179816,1531,1503,United States,frec99,white
+441,"Nov 1, 2019",loss,41,5 min,https://www.chess.com/analysis/game/live/4170503063,1540,1541,Philippines,paquitokingfajardo,white
+442,"Nov 1, 2019",win,21,5 min,https://www.chess.com/analysis/game/live/4170492004,1548,1513,Brazil,xmballd,white
+443,"Oct 30, 2019",loss,20,5 min,https://www.chess.com/analysis/game/live/4164872558,1540,1579,Romania,ecopkg,black
+444,"Oct 29, 2019",win,4,5 min,https://www.chess.com/analysis/game/live/4161074099,1547,1538,Russia,Husky_G,black
+445,"Oct 28, 2019",loss,35,5 min,https://www.chess.com/analysis/game/live/4160054036,1539,1558,Catalonia,yurigg,error
+446,"Oct 28, 2019",win,7,5 min,https://www.chess.com/analysis/game/live/4160052760,1547,1510,Bosnia-Herzegovina,amirBih,white
+447,"Oct 27, 2019",loss,34,5 min,https://www.chess.com/analysis/game/live/4155899352,1539,1530,Indonesia,mivtach,error
+448,"Oct 27, 2019",loss,12,10 min,https://www.chess.com/analysis/game/live/4155310249,1548,1517,Egypt,m0h0md,black
+449,"Oct 27, 2019",loss,39,10 min,https://www.chess.com/analysis/game/live/4155292810,1557,1533,India,mchandramouli,white
+450,"Oct 27, 2019",win,21,10 min,https://www.chess.com/analysis/game/live/4155278641,1566,1625,International,AllahuChessbar,white
+451,"Oct 27, 2019",win,21,10 min,https://www.chess.com/analysis/game/live/4155265022,1556,1569,India,yugveer,white
+452,"Oct 27, 2019",loss,6,10 min,https://www.chess.com/analysis/game/live/4155262155,1547,1567,United States,justinahole,white
+453,"Oct 27, 2019",loss,14,10 min,https://www.chess.com/analysis/game/live/4155243385,1555,1545,Myanmar,Phyolin,white
+454,"Oct 26, 2019",win,54,10 min,https://www.chess.com/analysis/game/live/4154098067,1564,1588,Kenya,Candidate_Moves,black
+455,"Oct 26, 2019",loss,16,10 min,https://www.chess.com/analysis/game/live/4154089366,1555,1548,United Kingdom,eli_tamir,black
+456,"Oct 26, 2019",win,31,10 min,https://www.chess.com/analysis/game/live/4154075611,1564,1498,Costa Rica,Fuera_Grasa,black
+457,"Oct 26, 2019",win,16,10 min,https://www.chess.com/analysis/game/live/4154070200,1557,1501,Italy,furiaimmacolata,white
+458,"Oct 26, 2019",loss,13,10 min,https://www.chess.com/analysis/game/live/4154066899,1550,1574,Philippines,EdGastanes58,black
+459,"Oct 26, 2019",loss,35,10 min,https://www.chess.com/analysis/game/live/4154048614,1558,1567,Slovenia,peislobodan,black
+460,"Oct 26, 2019",win,26,10 min,https://www.chess.com/analysis/game/live/4154037063,1566,1561,United States,felson33,white
+461,"Oct 26, 2019",win,14,10 min,https://www.chess.com/analysis/game/live/4154029218,1558,1569,United States,felson33,black
+462,"Oct 26, 2019",loss,28,5 min,https://www.chess.com/analysis/game/live/4152283092,1549,1554,India,sabloo,white
+463,"Oct 24, 2019",loss,6,10 min,https://www.chess.com/analysis/game/live/4148403118,1557,1659,United States,paras1965,white
+464,"Oct 24, 2019",loss,11,10 min,https://www.chess.com/analysis/game/live/4148399179,1563,1624,United States,venkat921,white
+465,"Oct 24, 2019",loss,8,10 min,https://www.chess.com/analysis/game/live/4148396823,1570,1631,Colombia,dalejodht,error
+466,"Oct 24, 2019",loss,39,5 min,https://www.chess.com/analysis/game/live/4147170765,1577,1622,Myanmar,tunnaingmyeik,white
+467,"Oct 23, 2019",win,26,5 min,https://www.chess.com/analysis/game/live/4145504921,1584,1524,United States,xaysanainthanam,black
+468,"Oct 23, 2019",win,42,5 min,https://www.chess.com/analysis/game/live/4145489006,1577,1478,Greece,vasiliadis,white
+469,"Oct 23, 2019",loss,44,5 min,https://www.chess.com/analysis/game/live/4144288608,1571,1605,Italy,rinomagistro,white
+470,"Oct 23, 2019",draw,41,5 min,https://www.chess.com/analysis/game/live/4144264375,1579,1592,North Macedonia,EnPassantfrey,error
+471,"Oct 23, 2019",win,38,5 min,https://www.chess.com/analysis/game/live/4144245998,1579,1608,United States,Baaldylocks,black
+472,"Oct 22, 2019",loss,42,5 min,https://www.chess.com/analysis/game/live/4142678008,1570,1567,Romania,flavi1,black
+473,"Oct 22, 2019",loss,48,5 min,https://www.chess.com/analysis/game/live/4142137064,1578,1616,Iran,amiramini,white
+474,"Oct 22, 2019",loss,50,5 min,https://www.chess.com/analysis/game/live/4141554181,1585,1538,Hungary,fecomohacsi,white
+475,"Oct 22, 2019",loss,19,5 min,https://www.chess.com/analysis/game/live/4141495867,1595,1651,Russia,Dav2008,black
+476,"Oct 22, 2019",loss,36,5 min,https://www.chess.com/analysis/game/live/4141133736,1602,1588,Indonesia,ilhamzul,white
+477,"Oct 22, 2019",win,74,5 min,https://www.chess.com/analysis/game/live/4141104754,1611,1590,Russia,SergeiWN,black
+478,"Oct 22, 2019",loss,53,5 min,https://www.chess.com/analysis/game/live/4141006286,1603,1565,Honduras,latino34,white
+479,"Oct 22, 2019",win,27,5 min,https://www.chess.com/analysis/game/live/4140989248,1612,1556,Honduras,latino34,black
+480,"Oct 22, 2019",win,42,5 min,https://www.chess.com/analysis/game/live/4140966053,1605,1563,Honduras,latino34,white
+481,"Oct 22, 2019",win,56,5 min,https://www.chess.com/analysis/game/live/4140668489,1598,1623,Sweden,xzebbex,white
+482,"Oct 22, 2019",win,55,5 min,https://www.chess.com/analysis/game/live/4140541496,1589,1517,Austria,Gablonsky,black
+483,"Oct 21, 2019",loss,35,5 min,https://www.chess.com/analysis/game/live/4139662248,1582,1553,Colombia,cesar1967,black
+484,"Oct 21, 2019",loss,27,5 min,https://www.chess.com/analysis/game/live/4139649405,1591,1522,United States,lublin,black
+485,"Oct 21, 2019",win,33,5 min,https://www.chess.com/analysis/game/live/4139628954,1601,1617,Canada,marshallxxx,white
+486,"Oct 21, 2019",draw,54,5 min,https://www.chess.com/analysis/game/live/4139611773,1592,1555,United States,TRImeHa,white
+487,"Oct 21, 2019",win,29,5 min,https://www.chess.com/analysis/game/live/4139598704,1593,1568,Argentina,JacquesDupont,white
+488,"Oct 21, 2019",loss,10,5 min,https://www.chess.com/analysis/game/live/4139587606,1585,1585,Mongolia,nyamkanasaa,black
+489,"Oct 21, 2019",win,22,5 min,https://www.chess.com/analysis/game/live/4139581917,1593,1587,Dominican Republic,yetuel,black
+490,"Oct 21, 2019",loss,44,5 min,https://www.chess.com/analysis/game/live/4139568893,1585,1713,United States,clararoa,black
+491,"Oct 21, 2019",loss,15,5 min,https://www.chess.com/analysis/game/live/4139565476,1590,1614,Philippines,jagobiaoknight,black
+492,"Oct 21, 2019",win,33,5 min,https://www.chess.com/analysis/game/live/4139552778,1598,1473,Mexico,anettediaz,white
+493,"Oct 21, 2019",win,40,5 min,https://www.chess.com/analysis/game/live/4137692239,1593,1550,Poland,1964IGLA,white
+494,"Oct 20, 2019",loss,15,5 min,https://www.chess.com/analysis/game/live/4136123254,1586,1572,United Arab Emirates,petetep,white
+495,"Oct 19, 2019",loss,16,5 min,https://www.chess.com/analysis/game/live/4134026967,1595,1627,Turkey,nobetci66,black
+496,"Oct 19, 2019",loss,36,5 min,https://www.chess.com/analysis/game/live/4134013363,1603,1619,Turkey,nobetci66,white
+497,"Oct 19, 2019",win,34,5 min,https://www.chess.com/analysis/game/live/4134002270,1611,1611,Turkey,nobetci66,black
+498,"Oct 19, 2019",loss,29,5 min,https://www.chess.com/analysis/game/live/4133991416,1603,1619,Turkey,nobetci66,white
+499,"Oct 19, 2019",win,46,5 min,https://www.chess.com/analysis/game/live/4133976955,1611,1606,Philippines,Mhelslayer,white
+500,"Oct 19, 2019",win,28,5 min,https://www.chess.com/analysis/game/live/4133970877,1603,1569,Mexico,chipis2002,black
+501,"Oct 19, 2019",win,24,5 min,https://www.chess.com/analysis/game/live/4133965565,1595,1561,United States,lynchmomo,black
+502,"Oct 19, 2019",loss,16,5 min,https://www.chess.com/analysis/game/live/4133958359,1587,1627,Cuba,odespaigneg,black
+503,"Oct 19, 2019",loss,21,5 min,https://www.chess.com/analysis/game/live/4133954365,1594,1693,United States,Mrc9,white
+504,"Oct 19, 2019",loss,16,5 min,https://www.chess.com/analysis/game/live/4133494781,1600,1593,Spain,abosher,white
+505,"Oct 19, 2019",loss,31,5 min,https://www.chess.com/analysis/game/live/4133458878,1609,1658,Portugal,Tresmares,white
+506,"Oct 19, 2019",loss,23,5 min,https://www.chess.com/analysis/game/live/4133444228,1616,1623,International,sukuru,white
+507,"Oct 19, 2019",draw,68,5 min,https://www.chess.com/analysis/game/live/4133169043,1624,1629,Moldova,goweb,black
+508,"Oct 19, 2019",loss,20,5 min,https://www.chess.com/analysis/game/live/4132614423,1624,1654,Spain,ponaredo,white
+509,"Oct 18, 2019",win,34,5 min,https://www.chess.com/analysis/game/live/4130772885,1632,1649,Bolivia,ferezt,black
+510,"Oct 18, 2019",win,58,5 min,https://www.chess.com/analysis/game/live/4130760500,1623,1639,United States,bula13c,white
+511,"Oct 18, 2019",loss,37,5 min,https://www.chess.com/analysis/game/live/4130291916,1614,1542,United States,8alliedstraws,black
+512,"Oct 18, 2019",loss,18,5 min,https://www.chess.com/analysis/game/live/4129573031,1624,1685,Venezuela,cesaralexanderchess,black
+513,"Oct 18, 2019",win,24,5 min,https://www.chess.com/analysis/game/live/4129560165,1631,1586,Albania,fonsy123,black
+514,"Oct 18, 2019",loss,50,5 min,https://www.chess.com/analysis/game/live/4129521873,1624,1600,Colombia,perexzs,white
+515,"Oct 18, 2019",win,27,5 min,https://www.chess.com/analysis/game/live/4129511247,1633,1591,Colombia,perexzs,black
+516,"Oct 18, 2019",win,18,5 min,https://www.chess.com/analysis/game/live/4129501835,1626,1590,Bosnia-Herzegovina,sabit-ahmetovic_a,white
+517,"Oct 18, 2019",win,31,5 min,https://www.chess.com/analysis/game/live/4129489736,1618,1629,International,gulfcoaster,white
+518,"Oct 18, 2019",win,35,3 min,https://www.chess.com/analysis/game/live/4129322661,1609,1588,Peru,elprofe37,white
+519,"Oct 17, 2019",win,22,5 min,https://www.chess.com/analysis/game/live/4127628867,1601,1606,Brazil,Panchok,white
+520,"Oct 17, 2019",loss,23,10 min,https://www.chess.com/analysis/game/live/4126618710,1592,1578,Philippines,juliantampos5665,black
+521,"Oct 17, 2019",win,27,10 min,https://www.chess.com/analysis/game/live/4126594760,1601,1614,India,blue_007J,white
+522,"Oct 17, 2019",win,18,10 min,https://www.chess.com/analysis/game/live/4126583357,1592,1575,Russia,mailjanework,black
+523,"Oct 16, 2019",loss,18,5 min,https://www.chess.com/analysis/game/live/4125186624,1584,1591,United States,pauto,white
+524,"Oct 16, 2019",loss,30,5 min,https://www.chess.com/analysis/game/live/4125177765,1592,1653,Serbia,Milos-SanDiego,black
+525,"Oct 16, 2019",win,44,5 min,https://www.chess.com/analysis/game/live/4125160743,1599,1581,Uruguay,jorb90,black
+526,"Oct 16, 2019",loss,41,5 min,https://www.chess.com/analysis/game/live/4125145432,1591,1575,Italy,BabbaLushh,black
+527,"Oct 16, 2019",loss,51,5 min,https://www.chess.com/analysis/game/live/4125037373,1600,1704,United States,aggie1997,white
+528,"Oct 16, 2019",loss,34,5 min,https://www.chess.com/analysis/game/live/4125024293,1606,1609,Brazil,DERIS3,white
+529,"Oct 16, 2019",loss,19,5 min,https://www.chess.com/analysis/game/live/4125014580,1614,1724,Philippines,megahex77,white
+530,"Oct 16, 2019",win,29,5 min,https://www.chess.com/analysis/game/live/4125004628,1620,1625,United States,jehabellard,white
+531,"Oct 16, 2019",loss,6,5 min,https://www.chess.com/analysis/game/live/4124879415,1612,1683,United Kingdom,wan888,black
+532,"Oct 16, 2019",loss,40,5 min,https://www.chess.com/analysis/game/live/4124861554,1619,1664,Israel,AmitaiBN,white
+533,"Oct 16, 2019",win,36,5 min,https://www.chess.com/analysis/game/live/4124850945,1626,1540,Austria,sveta60,black
+534,"Oct 16, 2019",win,27,5 min,https://www.chess.com/analysis/game/live/4124840311,1620,1577,United States,nyofer,black
+535,"Oct 16, 2019",loss,28,5 min,https://www.chess.com/analysis/game/live/4124828071,1613,1709,India,khanfauzi,white
+536,"Oct 16, 2019",loss,21,5 min,https://www.chess.com/analysis/game/live/4124818287,1619,1753,United States,dave_79,black
+537,"Oct 16, 2019",win,47,5 min,https://www.chess.com/analysis/game/live/4124796410,1624,1603,Turkey,rochester303,black
+538,"Oct 16, 2019",win,1,5 min,https://www.chess.com/live/game/4124795961?username=rondan1000,1616,1664,United Kingdom,masoodtapus,black
+539,"Oct 16, 2019",win,34,5 min,https://www.chess.com/analysis/game/live/4124418320,1606,1568,Turkey,rrdffffffd,white
+540,"Oct 16, 2019",win,26,5 min,https://www.chess.com/analysis/game/live/4124402932,1599,1551,Mexico,xMarshalx,white
+541,"Oct 16, 2019",win,39,5 min,https://www.chess.com/analysis/game/live/4124377134,1592,1525,Romania,Maf_13,white
+542,"Oct 16, 2019",loss,16,5 min,https://www.chess.com/analysis/game/live/4123250567,1585,1630,North Macedonia,aleksandarmitrevski,black
+543,"Oct 16, 2019",win,59,5 min,https://www.chess.com/analysis/game/live/4123229354,1592,1623,North Macedonia,aleksandarmitrevski,white
+544,"Oct 16, 2019",loss,19,5 min,https://www.chess.com/analysis/game/live/4123221598,1583,1625,Poland,waldekfortunka,white
+545,"Oct 16, 2019",loss,30,5 min,https://www.chess.com/analysis/game/live/4123198898,1590,1516,Philippines,maxstep12,white
+546,"Oct 15, 2019",loss,59,10 min,https://www.chess.com/analysis/game/live/4122063780,1600,1670,Mexico,jon_eldiablo,white
+547,"Oct 15, 2019",win,57,5 min,https://www.chess.com/analysis/game/live/4121333671,1607,1637,Ukraine,ekspeditor,black
+548,"Oct 15, 2019",win,23,5 min,https://www.chess.com/analysis/game/live/4121283791,1598,1573,Switzerland,Deli90,black
+549,"Oct 15, 2019",loss,33,5 min,https://www.chess.com/analysis/game/live/4121260174,1590,1607,Slovenia,mojmoj1154,black
+550,"Oct 15, 2019",loss,22,5 min,https://www.chess.com/analysis/game/live/4121244632,1598,1630,Armenia,slavikavagyan,white
+551,"Oct 15, 2019",win,26,5 min,https://www.chess.com/analysis/game/live/4121225425,1606,1562,Chile,numu1984,black
+552,"Oct 15, 2019",win,29,10 min,https://www.chess.com/analysis/game/live/4120781413,1599,1605,Kazakhstan,SkrynSS,black
+553,"Oct 15, 2019",win,19,10 min,https://www.chess.com/analysis/game/live/4120758504,1590,1556,Croatia,VvanjaaJocic,white
+554,"Oct 14, 2019",loss,27,5 min,https://www.chess.com/analysis/game/live/4119368664,1582,1634,India,dhamoder,white
+555,"Oct 14, 2019",loss,24,5 min,https://www.chess.com/analysis/game/live/4119363436,1589,1663,United States,Shipwreck1978,black
+556,"Oct 14, 2019",win,21,5 min,https://www.chess.com/analysis/game/live/4119356507,1596,1661,Philippines,Diggydiggy,black
+557,"Oct 14, 2019",loss,47,5 min,https://www.chess.com/analysis/game/live/4119214394,1586,1545,Ecuador,Rod3568,white
+558,"Oct 14, 2019",win,52,5 min,https://www.chess.com/analysis/game/live/4119200343,1595,1620,Mexico,eolverayanez,white
+559,"Oct 14, 2019",loss,14,5 min,https://www.chess.com/analysis/game/live/4119196573,1586,1662,United Kingdom,vitgill,black
+560,"Oct 14, 2019",loss,26,5 min,https://www.chess.com/analysis/game/live/4117808307,1593,1572,Romania,vio77,black
+561,"Oct 14, 2019",loss,21,5 min,https://www.chess.com/analysis/game/live/4117653788,1602,1611,Russia,JaguarClawSkull,white
+562,"Oct 14, 2019",loss,18,5 min,https://www.chess.com/analysis/game/live/4117646501,1610,1586,Germany,ozgur997,white
+563,"Oct 14, 2019",loss,23,5 min,https://www.chess.com/analysis/game/live/4117638006,1619,1639,Bosnia-Herzegovina,vladansa,black
+564,"Oct 14, 2019",loss,13,5 min,https://www.chess.com/analysis/game/live/4117592888,1627,1613,United States,John-45,white
+565,"Oct 14, 2019",loss,21,5 min,https://www.chess.com/analysis/game/live/4117566035,1636,1546,United States,slymjymbb,black
+566,"Oct 14, 2019",loss,15,5 min,https://www.chess.com/analysis/game/live/4117557865,1646,1691,United States,gillgrant,black
+567,"Oct 14, 2019",loss,25,5 min,https://www.chess.com/analysis/game/live/4117538452,1653,1665,Egypt,esmeil33333yoseuf,white
+568,"Oct 13, 2019",win,30,5 min,https://www.chess.com/analysis/game/live/4116331512,1661,1658,Colombia,Tereos1,black
+569,"Oct 13, 2019",win,26,5 min,https://www.chess.com/analysis/game/live/4116285478,1653,1700,Brazil,fmbueno,white
+570,"Oct 13, 2019",win,23,5 min,https://www.chess.com/analysis/game/live/4116279369,1644,1622,Egypt,gamal_717,black
+571,"Oct 13, 2019",win,40,5 min,https://www.chess.com/analysis/game/live/4116262955,1636,1557,United States,hariza4403,white
+572,"Oct 13, 2019",win,10,5 min,https://www.chess.com/analysis/game/live/4116259970,1629,1564,United States,hariza4403,error
+573,"Oct 13, 2019",win,33,5 min,https://www.chess.com/analysis/game/live/4116245273,1622,1571,United States,hariza4403,white
+574,"Oct 13, 2019",loss,17,5 min,https://www.chess.com/analysis/game/live/4115452408,1615,1662,France,Heda1000,error
+575,"Oct 13, 2019",win,19,5 min,https://www.chess.com/analysis/game/live/4115439784,1622,1581,Spain,vasquiti,black
+576,"Oct 13, 2019",loss,56,5 min,https://www.chess.com/analysis/game/live/4114576182,1615,1605,Israel,tzadok_b,white
+577,"Oct 12, 2019",win,42,5 min,https://www.chess.com/analysis/game/live/4113302376,1624,1509,Philippines,Parongparong,white
+578,"Oct 12, 2019",win,27,5 min,https://www.chess.com/analysis/game/live/4113286923,1618,1515,Philippines,Parongparong,black
+579,"Oct 12, 2019",win,36,5 min,https://www.chess.com/analysis/game/live/4113269828,1612,1580,Bosnia-Herzegovina,sa_player,black
+580,"Oct 12, 2019",win,27,5 min,https://www.chess.com/analysis/game/live/4113260183,1604,1588,Bosnia-Herzegovina,sa_player,white
+581,"Oct 12, 2019",loss,38,5 min,https://www.chess.com/analysis/game/live/4113239619,1596,1596,Bosnia-Herzegovina,sa_player,black
+582,"Oct 11, 2019",win,25,5 min,https://www.chess.com/analysis/game/live/4110660922,1604,1680,United States,yevseykhaytov,white
+583,"Oct 11, 2019",win,15,5 min,https://www.chess.com/analysis/game/live/4110656079,1594,1512,United States,Alobar918,black
+584,"Oct 11, 2019",win,25,5 min,https://www.chess.com/analysis/game/live/4110647782,1588,1618,United States,mauricemckay88,white
+585,"Oct 11, 2019",loss,10,5 min,https://www.chess.com/analysis/game/live/4110425596,1579,1602,United States,mark_d50,white
+586,"Oct 11, 2019",loss,26,5 min,https://www.chess.com/analysis/game/live/4110412200,1587,1562,United States,chessplayeraaa,white
+587,"Oct 11, 2019",loss,31,5 min,https://www.chess.com/analysis/game/live/4110324405,1596,1635,France,slorenzo,black
+588,"Oct 11, 2019",win,27,5 min,https://www.chess.com/analysis/game/live/4110308391,1603,1614,India,rummy_rocks,white
+589,"Oct 11, 2019",loss,11,5 min,https://www.chess.com/analysis/game/live/4110063541,1594,1592,United States,kozmikvoid,black
+590,"Oct 11, 2019",loss,27,5 min,https://www.chess.com/analysis/game/live/4110047260,1602,1638,United States,thepurplemango,error
+591,"Oct 11, 2019",loss,40,5 min,https://www.chess.com/analysis/game/live/4110029625,1609,1575,India,palfeb31987,white
+592,"Oct 11, 2019",loss,31,10 min,https://www.chess.com/analysis/game/live/4109214252,1618,1683,Lithuania,nvspl,black
+593,"Oct 11, 2019",win,34,5 min,https://www.chess.com/analysis/game/live/4108642735,1625,1644,India,RAJAHINDUSTANI970,black
+594,"Oct 10, 2019",win,52,5 min,https://www.chess.com/analysis/game/live/4107776976,1616,1571,India,smartGui,black
+595,"Oct 10, 2019",win,20,5 min,https://www.chess.com/analysis/game/live/4107770697,1609,1592,Indonesia,Algiofani,white
+596,"Oct 10, 2019",win,20,5 min,https://www.chess.com/analysis/game/live/4107764531,1601,1567,United States,Fiskas2002,white
+597,"Oct 9, 2019",loss,44,5 min,https://www.chess.com/analysis/game/live/4103596306,1593,1560,Finland,kafar,white
+598,"Oct 9, 2019",win,26,5 min,https://www.chess.com/analysis/game/live/4103528146,1602,1499,United Kingdom,Monkey_Bum,error
+599,"Oct 9, 2019",win,34,5 min,https://www.chess.com/analysis/game/live/4103504206,1596,1505,United Kingdom,Monkey_Bum,white
+600,"Oct 9, 2019",win,36,5 min,https://www.chess.com/analysis/game/live/4103491118,1590,1568,Thailand,LuckyMan1978,white
+601,"Oct 9, 2019",loss,31,5 min,https://www.chess.com/analysis/game/live/4103234924,1582,1620,France,Crl_Ltrnx,white
+602,"Oct 9, 2019",loss,11,5 min,https://www.chess.com/analysis/game/live/4102925932,1589,1613,Indonesia,Mrdunggio,black
+603,"Oct 9, 2019",loss,9,5 min,https://www.chess.com/analysis/game/live/4102923116,1597,1638,India,Gentle53,black
+604,"Oct 8, 2019",win,13,5 min,https://www.chess.com/analysis/game/live/4102002727,1604,1606,Uruguay,wil_w,white
+605,"Oct 8, 2019",win,66,5 min,https://www.chess.com/analysis/game/live/4101984575,1596,1614,Uruguay,wil_w,black
+606,"Oct 8, 2019",loss,35,5 min,https://www.chess.com/analysis/game/live/4101969543,1587,1522,Brazil,Jacksoncirilo87,white
+607,"Oct 8, 2019",win,21,5 min,https://www.chess.com/analysis/game/live/4101961339,1597,1629,United States,WalangTalo,black
+608,"Oct 8, 2019",loss,21,5 min,https://www.chess.com/analysis/game/live/4100659405,1588,1742,Bosnia-Herzegovina,ivanc2,white
+609,"Oct 8, 2019",loss,21,10 min,https://www.chess.com/analysis/game/live/4100635575,1593,1604,Mexico,cirilo33,black
+610,"Oct 8, 2019",loss,18,10 min,https://www.chess.com/analysis/game/live/4100620392,1601,1559,Belgium,grungegolem,black
+611,"Oct 8, 2019",win,50,5 min,https://www.chess.com/analysis/game/live/4100570990,1610,1599,Philippines,Williamby,white
+612,"Oct 8, 2019",win,42,10 min,https://www.chess.com/analysis/game/live/4100158099,1602,1636,India,surajchand,white
+613,"Oct 8, 2019",loss,16,10 min,https://www.chess.com/analysis/game/live/4100144212,1593,1645,India,surajchand,black
+614,"Oct 7, 2019",win,17,5 min,https://www.chess.com/analysis/game/live/4099414417,1600,1574,Philippines,Jhondel,white
+615,"Oct 7, 2019",loss,19,5 min,https://www.chess.com/analysis/game/live/4099410750,1592,1606,Costa Rica,Arandu7,black
+616,"Oct 7, 2019",win,37,5 min,https://www.chess.com/analysis/game/live/4099393889,1600,1553,Brazil,PedroC57,black
+617,"Oct 7, 2019",win,43,5 min,https://www.chess.com/analysis/game/live/4099378947,1593,1597,France,JedimindTricks10,white
+618,"Oct 7, 2019",loss,19,5 min,https://www.chess.com/analysis/game/live/4099315215,1584,1689,International,Trotter88,black
+619,"Oct 7, 2019",win,56,5 min,https://www.chess.com/analysis/game/live/4099298740,1590,1602,Indonesia,Guston15,white
+620,"Oct 7, 2019",win,7,5 min,https://www.chess.com/analysis/game/live/4099296799,1581,1561,Canada,ngdulay713,black
+621,"Oct 7, 2019",loss,27,5 min,https://www.chess.com/analysis/game/live/4099290018,1573,1554,Mexico,egosumtroy,black
+622,"Oct 7, 2019",win,59,5 min,https://www.chess.com/analysis/game/live/4099275820,1582,1607,Brazil,Bylyjhow,white
+623,"Oct 7, 2019",win,19,5 min,https://www.chess.com/analysis/game/live/4099269788,1573,1552,Mexico,Banjo1313,white
+624,"Oct 7, 2019",win,47,5 min,https://www.chess.com/analysis/game/live/4099231097,1565,1603,United States,synergy36,white
+625,"Oct 7, 2019",win,27,5 min,https://www.chess.com/analysis/game/live/4099224826,1556,1520,United States,dudesmpd,black
+626,"Oct 7, 2019",loss,66,5 min,https://www.chess.com/analysis/game/live/4099152728,1549,1549,United States,kkmsn,white
+627,"Oct 7, 2019",win,36,5 min,https://www.chess.com/analysis/game/live/4099141895,1557,1541,United States,kkmsn,black
+628,"Oct 7, 2019",win,33,5 min,https://www.chess.com/analysis/game/live/4099130287,1549,1577,Jordan,aa1zz,black
+629,"Oct 7, 2019",loss,29,10 min,https://www.chess.com/analysis/game/live/4098848968,1540,1534,United States,LR58,black
+630,"Oct 7, 2019",win,42,10 min,https://www.chess.com/analysis/game/live/4098813171,1549,1467,Spain,xausman,white
+631,"Oct 7, 2019",loss,39,10 min,https://www.chess.com/analysis/game/live/4098780437,1543,1586,Netherlands,jamshedy2,white
+632,"Oct 7, 2019",win,8,5 min,https://www.chess.com/analysis/game/live/4098558426,1550,1508,Russia,Murad096,black
+633,"Oct 7, 2019",loss,42,5 min,https://www.chess.com/analysis/game/live/4098162276,1543,1519,Malaysia,rookiez,black
+634,"Oct 7, 2019",win,9,5 min,https://www.chess.com/analysis/game/live/4098160139,1552,1581,Russia,izpenzy,white
+635,"Oct 7, 2019",win,26,5 min,https://www.chess.com/analysis/game/live/4098143280,1543,1521,Iceland,Hjaltifrikk,white
+636,"Oct 7, 2019",win,21,5 min,https://www.chess.com/analysis/game/live/4098132497,1535,1537,United States,kiffodelic,black
+637,"Oct 7, 2019",loss,24,5 min,https://www.chess.com/analysis/game/live/4098114929,1527,1529,Iceland,Hjaltifrikk,black
+638,"Oct 7, 2019",win,35,5 min,https://www.chess.com/analysis/game/live/4098093858,1535,1499,Serbia,MiroslavR1970,white
+639,"Oct 7, 2019",draw,80,5 min,https://www.chess.com/analysis/game/live/4097908736,1527,1540,Serbia,joca-bg,black
+640,"Oct 7, 2019",win,19,5 min,https://www.chess.com/analysis/game/live/4097898008,1527,1487,Belgium,ZimdimZimdane,black
+641,"Oct 7, 2019",win,41,5 min,https://www.chess.com/analysis/game/live/4097877189,1520,1526,Lebanon,aliyaalialiya,white
+642,"Oct 7, 2019",loss,55,5 min,https://www.chess.com/analysis/game/live/4097850788,1511,1547,France,oraline,black
+643,"Oct 7, 2019",win,29,5 min,https://www.chess.com/analysis/game/live/4097839163,1519,1515,Netherlands,Heerlerheide,white
+644,"Oct 7, 2019",win,36,5 min,https://www.chess.com/analysis/game/live/4097810423,1511,1475,Croatia,benodonios,black
+645,"Oct 7, 2019",win,20,5 min,https://www.chess.com/analysis/game/live/4097714831,1504,1477,Colombia,Andrososabroso,white
+646,"Oct 7, 2019",win,29,5 min,https://www.chess.com/analysis/game/live/4097692473,1496,1499,United States,Crakken,error
+647,"Oct 7, 2019",win,61,5 min,https://www.chess.com/analysis/game/live/4097588312,1488,1449,Egypt,Negmawy,black
+648,"Oct 7, 2019",win,22,5 min,https://www.chess.com/analysis/game/live/4097579141,1481,1534,Iran,khosro-khan,white
+649,"Oct 7, 2019",win,56,5 min,https://www.chess.com/analysis/game/live/4097451342,1471,1455,Slovakia,teodorbuchlik,black
+650,"Oct 7, 2019",win,35,5 min,https://www.chess.com/analysis/game/live/4097431066,1463,1412,India,nihar1993,white
+651,"Oct 6, 2019",loss,13,5 min,https://www.chess.com/analysis/game/live/4096521311,1456,1515,Indonesia,RajaJomblo,black
+652,"Oct 6, 2019",win,34,5 min,https://www.chess.com/analysis/game/live/4096509886,1463,1423,India,pest1497,white
+653,"Oct 6, 2019",win,43,5 min,https://www.chess.com/analysis/game/live/4096493766,1456,1420,Brazil,morneves,black
+654,"Oct 6, 2019",loss,16,5 min,https://www.chess.com/analysis/game/live/4096489856,1449,1505,Philippines,johnsen9001,white
+655,"Oct 6, 2019",win,40,5 min,https://www.chess.com/analysis/game/live/4096476260,1456,1450,United States,azzasac,white
+656,"Oct 5, 2019",loss,47,10 min,https://www.chess.com/analysis/game/live/4093195112,1448,1499,Scotland,SlickRick78,white
+657,"Oct 5, 2019",win,38,10 min,https://www.chess.com/analysis/game/live/4093156596,1455,1428,United States,Spurio8,white
+658,"Oct 5, 2019",win,51,10 min,https://www.chess.com/analysis/game/live/4093134870,1447,1494,Brazil,andubene,black
+659,"Oct 5, 2019",loss,29,10 min,https://www.chess.com/analysis/game/live/4092285375,1437,1473,Mexico,lalexandher,error
+660,"Oct 5, 2019",win,5,10 min,https://www.chess.com/analysis/game/live/4092280443,1445,1407,Ukraine,Matitis,black
+661,"Oct 5, 2019",win,47,10 min,https://www.chess.com/analysis/game/live/4092250079,1438,1370,United States,chevol26,white
+662,"Oct 5, 2019",loss,33,10 min,https://www.chess.com/analysis/game/live/4091683355,1431,1468,Bosnia-Herzegovina,Milorad1221,black
+663,"Oct 5, 2019",loss,33,10 min,https://www.chess.com/analysis/game/live/4091628634,1438,1472,Poland,Rw1148,black
+664,"Oct 5, 2019",loss,25,10 min,https://www.chess.com/analysis/game/live/4091614457,1446,1431,Colombia,993377,black
+665,"Oct 5, 2019",loss,15,10 min,https://www.chess.com/analysis/game/live/4091591484,1455,1453,Netherlands,Hanneke4,white
+666,"Oct 5, 2019",loss,12,10 min,https://www.chess.com/analysis/game/live/4091585695,1463,1424,Philippines,MichaelBerber3012,white
+667,"Oct 4, 2019",win,50,10 min,https://www.chess.com/analysis/game/live/4090741106,1472,1472,Philippines,philippinescondo2,white
+668,"Oct 4, 2019",win,27,10 min,https://www.chess.com/analysis/game/live/4090731659,1464,1356,Canada,zigzager,white
+669,"Oct 4, 2019",loss,13,10 min,https://www.chess.com/analysis/game/live/4090728826,1458,1401,United States,LupusDux,white
+670,"Oct 4, 2019",loss,38,5 min,https://www.chess.com/analysis/game/live/4090713263,1468,1503,Mexico,cenizzzas,black
+671,"Oct 4, 2019",loss,19,5 min,https://www.chess.com/analysis/game/live/4090257162,1476,1465,Portugal,rafa_f94,black
+672,"Oct 4, 2019",loss,9,5 min,https://www.chess.com/analysis/game/live/4090255332,1485,1481,Poland,Yamatotakeru,black
+673,"Oct 4, 2019",win,56,5 min,https://www.chess.com/analysis/game/live/4090104875,1494,1494,Mexico,Fsiddhartha,white
+674,"Oct 4, 2019",loss,41,5 min,https://www.chess.com/analysis/game/live/4090079886,1486,1525,Mexico,xMarshalx,black
+675,"Oct 4, 2019",loss,21,5 min,https://www.chess.com/analysis/game/live/4089462206,1493,1591,Argentina,pinchilongo,black
+676,"Oct 4, 2019",loss,26,5 min,https://www.chess.com/analysis/game/live/4088796878,1499,1554,United Kingdom,psychoticdonkey,white
+677,"Oct 4, 2019",loss,29,5 min,https://www.chess.com/analysis/game/live/4088731559,1506,1505,Germany,EniSopi,white
+678,"Oct 4, 2019",loss,26,5 min,https://www.chess.com/analysis/game/live/4088721077,1514,1489,Turkey,ylmzfrt,white
+679,"Oct 4, 2019",win,28,5 min,https://www.chess.com/analysis/game/live/4088702990,1523,1462,Italy,Ugollino,white
+680,"Oct 4, 2019",loss,1,10 min,https://www.chess.com/live/game/4088692466?username=rondan1000,1516,1501,Norway,Dilling11,white
+681,"Oct 3, 2019",draw,61,10 min,https://www.chess.com/analysis/game/live/4086575344,1525,1027,Brazil,felipeluna2,black
+682,"Oct 3, 2019",loss,10,5 min,https://www.chess.com/analysis/game/live/4086570363,1532,1551,Finland,kaltsu3,black
+683,"Oct 3, 2019",win,43,10 min,https://www.chess.com/analysis/game/live/4086526284,1540,1545,Czech Republic,Kurkemao,error
+684,"Oct 2, 2019",win,45,5 min,https://www.chess.com/analysis/game/live/4085187666,1531,1514,Philippines,sacredfire08,white
+685,"Oct 2, 2019",loss,31,5 min,https://www.chess.com/analysis/game/live/4085134980,1522,1562,Philippines,Bandayrel,black
+686,"Oct 2, 2019",win,28,5 min,https://www.chess.com/analysis/game/live/4085124832,1529,1527,United States,sharrel3,error
+687,"Oct 2, 2019",loss,17,5 min,https://www.chess.com/analysis/game/live/4085119315,1521,1589,Indonesia,ewaewa0,white
+688,"Oct 2, 2019",loss,27,5 min,https://www.chess.com/analysis/game/live/4084974499,1528,1542,Cuba,cucuso,white
+689,"Oct 2, 2019",win,33,5 min,https://www.chess.com/analysis/game/live/4084964014,1536,1488,United States,PawnAddikt,black
+690,"Oct 2, 2019",win,13,5 min,https://www.chess.com/analysis/game/live/4084959033,1529,1373,Croatia,2spawn,black
+691,"Oct 2, 2019",loss,33,5 min,https://www.chess.com/analysis/game/live/4084912871,1524,1562,Mexico,saltapatras,white
+692,"Oct 2, 2019",win,36,5 min,https://www.chess.com/analysis/game/live/4084897296,1531,1488,Colombia,strujillop,black
+693,"Oct 2, 2019",win,57,5 min,https://www.chess.com/analysis/game/live/4084885684,1524,1500,Venezuela,miguelguanche,white
+694,"Oct 2, 2019",win,56,5 min,https://www.chess.com/analysis/game/live/4083983528,1516,1541,Philippines,edmarcelo9270,black
+695,"Oct 2, 2019",loss,18,5 min,https://www.chess.com/analysis/game/live/4083969863,1507,1544,Russia,yurickp,white
+696,"Oct 2, 2019",loss,28,5 min,https://www.chess.com/analysis/game/live/4083720790,1515,1510,Italy,corinel,black
+697,"Oct 2, 2019",loss,16,5 min,https://www.chess.com/analysis/game/live/4083704427,1523,1512,Philippines,JPZM2017,white
+698,"Oct 2, 2019",win,53,5 min,https://www.chess.com/analysis/game/live/4083679122,1532,1478,Spain,pabrura,black
+699,"Oct 2, 2019",loss,19,5 min,https://www.chess.com/analysis/game/live/4083668521,1525,1522,France,Freluquetbis,white
+700,"Oct 2, 2019",win,6,5 min,https://www.chess.com/analysis/game/live/4083663419,1533,1545,Philippines,adz182000,black
+701,"Oct 2, 2019",loss,25,5 min,https://www.chess.com/analysis/game/live/4083653313,1524,1607,Indonesia,restu16,black
+702,"Oct 2, 2019",loss,14,5 min,https://www.chess.com/analysis/game/live/4083648011,1530,1599,Slovenia,zupi123456,white
+703,"Oct 1, 2019",loss,17,5 min,https://www.chess.com/analysis/game/live/4080876258,1537,1517,United States,birdfan,white
+704,"Oct 1, 2019",loss,32,5 min,https://www.chess.com/analysis/game/live/4080851161,1546,1540,Brazil,Danielfla,white
+705,"Oct 1, 2019",loss,43,5 min,https://www.chess.com/analysis/game/live/4080363554,1555,1585,Switzerland,Mimse74,black
+706,"Sep 30, 2019",win,36,5 min,https://www.chess.com/analysis/game/live/4079388550,1563,1527,Mongolia,nyamkanasaa,white
+707,"Sep 30, 2019",loss,18,5 min,https://www.chess.com/analysis/game/live/4079381728,1555,1580,Indonesia,corolla101,black
+708,"Sep 30, 2019",loss,17,5 min,https://www.chess.com/analysis/game/live/4079373028,1563,1616,Canada,OstapBander,white
+709,"Sep 30, 2019",loss,21,5 min,https://www.chess.com/analysis/game/live/4079369014,1570,1537,United States,Hagig,black
+710,"Sep 30, 2019",draw,73,5 min,https://www.chess.com/analysis/game/live/4078613303,1579,1575,Italy,GioCollana,black
+711,"Sep 30, 2019",loss,11,5 min,https://www.chess.com/analysis/game/live/4078228917,1579,1594,Brazil,KingJONES1000,white
+712,"Sep 30, 2019",loss,25,5 min,https://www.chess.com/analysis/game/live/4078217419,1587,1576,Albania,GaripTirone,black
+713,"Sep 30, 2019",win,28,5 min,https://www.chess.com/analysis/game/live/4078201506,1596,1567,Albania,GaripTirone,white
+714,"Sep 30, 2019",loss,35,5 min,https://www.chess.com/analysis/game/live/4078186312,1588,1575,Albania,GaripTirone,black
+715,"Sep 30, 2019",loss,22,5 min,https://www.chess.com/analysis/game/live/4078178179,1597,1566,Albania,GaripTirone,white
+716,"Sep 30, 2019",win,5,5 min,https://www.chess.com/analysis/game/live/4078177249,1606,1557,Albania,GaripTirone,black
+717,"Sep 30, 2019",win,28,5 min,https://www.chess.com/analysis/game/live/4078165632,1599,1564,Albania,GaripTirone,white
+718,"Sep 30, 2019",win,73,5 min,https://www.chess.com/analysis/game/live/4078136794,1591,1572,Albania,GaripTirone,black
+719,"Sep 30, 2019",win,4,5 min,https://www.chess.com/analysis/game/live/4078136272,1583,1580,Albania,GaripTirone,white
+720,"Sep 30, 2019",win,42,5 min,https://www.chess.com/analysis/game/live/4078110091,1575,1588,Albania,GaripTirone,black
+721,"Sep 30, 2019",win,44,5 min,https://www.chess.com/analysis/game/live/4078084712,1566,1577,Myanmar,thetmyozawgeol,white
+722,"Sep 30, 2019",win,25,5 min,https://www.chess.com/analysis/game/live/4077472734,1557,1528,France,SPINOSAURE,white
+723,"Sep 30, 2019",loss,29,5 min,https://www.chess.com/analysis/game/live/4077459912,1549,1585,Russia,Lexizli,white
+724,"Sep 30, 2019",loss,9,5 min,https://www.chess.com/analysis/game/live/4077456112,1557,1544,India,shivarama_bhat,black
+725,"Sep 30, 2019",win,39,5 min,https://www.chess.com/analysis/game/live/4077446248,1566,1504,Portugal,andreykhash,black
+726,"Sep 29, 2019",win,30,5 min,https://www.chess.com/analysis/game/live/4076627768,1559,1509,Nigeria,Ausken,black
+727,"Sep 29, 2019",win,20,5 min,https://www.chess.com/analysis/game/live/4076621174,1552,1516,Nigeria,Ausken,white
+728,"Sep 29, 2019",win,22,5 min,https://www.chess.com/analysis/game/live/4076615671,1545,1484,United States,jean-alain,black
+729,"Sep 29, 2019",loss,23,5 min,https://www.chess.com/analysis/game/live/4076477221,1538,1584,France,criminalbishop84,white
+730,"Sep 29, 2019",win,29,5 min,https://www.chess.com/analysis/game/live/4076470899,1545,1508,El Salvador,alfaromero,black
+731,"Sep 29, 2019",draw,43,5 min,https://www.chess.com/analysis/game/live/4076458040,1538,1435,Brazil,Sergiorxt,error
+732,"Sep 29, 2019",win,15,5 min,https://www.chess.com/analysis/game/live/4076452747,1540,1615,United States,filet-0-fish,white
+733,"Sep 29, 2019",win,21,5 min,https://www.chess.com/analysis/game/live/4076446966,1530,1420,Mexico,tatashi,white
+734,"Sep 29, 2019",win,24,5 min,https://www.chess.com/analysis/game/live/4076439023,1524,1492,Egypt,elbshnaky,black
+735,"Sep 29, 2019",loss,13,5 min,https://www.chess.com/analysis/game/live/4076434209,1516,1459,Argentina,ELMOREJAMES,white
+736,"Sep 29, 2019",loss,30,5 min,https://www.chess.com/analysis/game/live/4076425038,1526,1608,United States,timtex911,black
+737,"Sep 29, 2019",loss,23,5 min,https://www.chess.com/analysis/game/live/4076420155,1532,1576,United States,skyquota,black
+738,"Sep 29, 2019",loss,22,10 min,https://www.chess.com/analysis/game/live/4075579298,1539,1611,Catalonia,fburrull,white
+739,"Sep 29, 2019",win,23,5 min,https://www.chess.com/analysis/game/live/4074619706,1546,1494,Spain,ONLIN7,white
+740,"Sep 29, 2019",win,34,5 min,https://www.chess.com/analysis/game/live/4074604643,1538,1557,United States,martyhunter,error
+741,"Sep 29, 2019",win,38,5 min,https://www.chess.com/analysis/game/live/4074554886,1528,1544,India,rama6789,white
+742,"Sep 28, 2019",loss,14,5 min,https://www.chess.com/analysis/game/live/4073720758,1518,1531,Argentina,Oldchessman46,black
+743,"Sep 28, 2019",loss,59,5 min,https://www.chess.com/analysis/game/live/4073710804,1527,1522,United States,koolkenn,black
+744,"Sep 28, 2019",win,21,5 min,https://www.chess.com/analysis/game/live/4073705306,1537,1518,Paraguay,aminmanu,black
+745,"Sep 28, 2019",loss,42,5 min,https://www.chess.com/analysis/game/live/4073674253,1527,1536,Vietnam,khanh7ccc,white
+746,"Sep 28, 2019",win,21,5 min,https://www.chess.com/analysis/game/live/4073669132,1537,1480,United States,Sisyphus91,white
+747,"Sep 28, 2019",loss,17,5 min,https://www.chess.com/analysis/game/live/4073662960,1528,1563,United States,Dan_V,error
+748,"Sep 28, 2019",loss,28,10 min,https://www.chess.com/analysis/game/live/4073462144,1538,1530,India,asitkumarmohanty1997,black
+749,"Sep 28, 2019",win,23,10 min,https://www.chess.com/analysis/game/live/4073442787,1550,1048,Brazil,felipeluna2,white
+750,"Sep 28, 2019",loss,28,5 min,https://www.chess.com/analysis/game/live/4072068182,1549,1661,Bulgaria,am11gloriam,white
+751,"Sep 28, 2019",win,20,5 min,https://www.chess.com/analysis/game/live/4072061087,1557,1508,Slovenia,zdravcek,white
+752,"Sep 28, 2019",win,17,5 min,https://www.chess.com/analysis/game/live/4072047093,1547,1508,Albania,monikastillo,white
+753,"Sep 28, 2019",loss,29,3 min,https://www.chess.com/analysis/game/live/4071910196,1536,1800,International,Grintovec,black
+754,"Sep 28, 2019",win,34,3 min,https://www.chess.com/analysis/game/live/4071897753,1541,1445,Kazakhstan,adelante2017,black
+755,"Sep 28, 2019",loss,45,5 min,https://www.chess.com/analysis/game/live/4071812263,1531,1578,Philippines,tomas_escorpizo,black
+756,"Sep 28, 2019",win,25,5 min,https://www.chess.com/analysis/game/live/4071802204,1543,1500,Greece,bokas13,white
+757,"Sep 27, 2019",loss,37,5 min,https://www.chess.com/analysis/game/live/4070738835,1530,1538,India,FeelTheBernBaby,white
+758,"Sep 27, 2019",win,40,5 min,https://www.chess.com/analysis/game/live/4070721217,1544,1501,United States,atorelli,black
+759,"Sep 27, 2019",win,55,5 min,https://www.chess.com/analysis/game/live/4070576422,1531,1473,United States,jadebe88,white
+760,"Sep 27, 2019",draw,31,5 min,https://www.chess.com/analysis/game/live/4070557428,1517,1486,Vietnam,phutgiaomua,black
+761,"Sep 27, 2019",win,30,10 min,https://www.chess.com/analysis/game/live/4070531945,1519,1505,United States,jswatering,black
+762,"Sep 27, 2019",loss,26,10 min,https://www.chess.com/analysis/game/live/4070234471,1502,1489,Russia,Cuzminura,white
+763,"Sep 27, 2019",draw,62,10 min,https://www.chess.com/analysis/game/live/4070211166,1521,1405,France,elsamakhlouf0096,white
+764,"Sep 27, 2019",win,15,10 min,https://www.chess.com/analysis/game/live/4070179916,1527,1071,Brazil,felipeluna2,black
+765,"Sep 27, 2019",win,57,5|5,https://www.chess.com/analysis/game/live/4070122550,1524,1495,Norway,TomKyrre,white
+766,"Sep 27, 2019",loss,13,5|5,https://www.chess.com/analysis/game/live/4070114716,1505,1503,Norway,TomKyrre,black
+767,"Sep 27, 2019",win,42,10 min,https://www.chess.com/analysis/game/live/4070050001,1528,1545,United States,EnergeticBarn,white
+768,"Sep 18, 2019",loss,2,5 min,https://www.chess.com/live/game/4044686090?username=rondan1000,1503,1531,Denmark,TheoreticalWin,error
+769,"Sep 18, 2019",loss,24,5 min,https://www.chess.com/analysis/game/live/4044673057,1526,1826,Ukraine,misha_chess,white
+770,"Sep 18, 2019",win,0,3 min,https://www.chess.com/live/game/4044649888?username=rondan1000,1575,1300,Poland,kiler666,black
+771,"Sep 18, 2019",loss,26,3 min,https://www.chess.com/analysis/game/live/4044631054,1540,1529,Italy,ballones,white
+772,"Sep 18, 2019",loss,50,3 min,https://www.chess.com/analysis/game/live/4044612006,1658,1915,Argentina,almayvidrio,black
+773,"Sep 18, 2019",win,51,3 min,https://www.chess.com/analysis/game/live/4044596947,1710,1537,United States,1234whats,black
+774,"Sep 18, 2019",win,36,3 min,https://www.chess.com/analysis/game/live/4044579549,1588,1835,Georgia,Sandro-Argonaut,white
+775,"Sep 18, 2019",loss,17,3 min,https://www.chess.com/analysis/game/live/4044565048,1144,1248,India,Vicky127,black
+776,"Sep 18, 2019",draw,71,10 min,https://www.chess.com/analysis/game/live/4044356281,1534,1086,Brazil,felipeluna2,white
+777,"Sep 18, 2019",win,28,10 min,https://www.chess.com/analysis/game/live/4044323820,1551,907,Brazil,felipeluna2,black
+778,"Sep 18, 2019",win,22,10 min,https://www.chess.com/analysis/game/live/4044309764,1549,919,Brazil,felipeluna2,white
+779,"Sep 18, 2019",win,15,10 min,https://www.chess.com/analysis/game/live/4044300863,1546,933,Brazil,felipeluna2,black
+780,"Sep 18, 2019",win,7,10 min,https://www.chess.com/analysis/game/live/4044297798,1543,950,Brazil,felipeluna2,white
+781,"Sep 18, 2019",win,23,10 min,https://www.chess.com/analysis/game/live/4044283118,1540,971,Brazil,felipeluna2,black
+782,"Sep 18, 2019",loss,69,5 min,https://www.chess.com/analysis/game/live/4044248339,1536,1538,United States,justaplaya,black
+783,"Sep 18, 2019",loss,35,3 min,https://www.chess.com/analysis/game/live/4044189663,1565,1767,Armenia,MarkManucharyan,black
+784,"Sep 18, 2019",loss,36,3 min,https://www.chess.com/analysis/game/live/4043738877,1580,1250,Zambia,EconMumba,white
+785,"Sep 18, 2019",loss,37,3 min,https://www.chess.com/analysis/game/live/4043729389,1636,1893,Egypt,ThirdDime,white
+786,"Sep 18, 2019",win,33,3 min,https://www.chess.com/analysis/game/live/4043717417,1649,1439,Iran,AIRAN,white
+787,"Sep 18, 2019",loss,14,3 min,https://www.chess.com/analysis/game/live/4043713687,1632,2009,United States,Bama3737,error
+788,"Sep 18, 2019",loss,32,3 min,https://www.chess.com/analysis/game/live/4043702108,1640,1613,Italy,Skylander1971,black
+789,"Sep 18, 2019",win,27,3 min,https://www.chess.com/analysis/game/live/4043690971,1686,1181,Canada,Madura911,black
+790,"Sep 18, 2019",win,31,3 min,https://www.chess.com/analysis/game/live/4043680845,1681,1404,Denmark,RasmusNB,white
+791,"Sep 18, 2019",win,22,3 min,https://www.chess.com/analysis/game/live/4043673266,1665,1685,Philippines,enelra,white
+792,"Sep 18, 2019",win,30,3 min,https://www.chess.com/analysis/game/live/4043663458,1608,1262,United States,joep13,white
+793,"Sep 18, 2019",loss,33,3 min,https://www.chess.com/analysis/game/live/4043651180,1594,1688,Croatia,brajica,black
+794,"Sep 18, 2019",win,30,3 min,https://www.chess.com/analysis/game/live/4043637608,1645,1570,India,Sanfern15,black
+795,"Sep 18, 2019",win,13,3 min,https://www.chess.com/analysis/game/live/4043628671,1577,767,Russia,Anton-gandon,black
+796,"Sep 18, 2019",win,29,3 min,https://www.chess.com/analysis/game/live/4043618721,1575,1467,Sri Lanka,methsara2006,white
+797,"Sep 18, 2019",win,26,3|2,https://www.chess.com/analysis/game/live/4043591004,1497,1121,India,Avifgh1,black
+798,"Apr 16, 2016",loss,17,10 min,https://www.chess.com/analysis/game/live/1542727889,1470,1313,Norway,tomknu3,black
+799,"Apr 16, 2016",loss,30,10 min,https://www.chess.com/analysis/game/live/1542709682,1482,1426,Portugal,jorgecorreia,error
+800,"Apr 16, 2016",win,55,10 min,https://www.chess.com/analysis/game/live/1542689734,1492,1418,Argentina,alfilesidiotas,white
+801,"Apr 16, 2016",win,31,10 min,https://www.chess.com/analysis/game/live/1542672191,1485,1298,United States,Chamb,white
+802,"Apr 10, 2016",loss,27,5 min,https://www.chess.com/analysis/game/live/1534908207,1479,1474,North Korea,ERICTHEMIDGET,white
+803,"Apr 9, 2016",loss,32,5 min,https://www.chess.com/analysis/game/live/1533524545,1488,1492,Lithuania,Plikius,white
+804,"Apr 9, 2016",loss,33,5 min,https://www.chess.com/analysis/game/live/1533200488,1497,1536,Croatia,jozazo,white
+805,"Apr 2, 2016",loss,26,10 min,https://www.chess.com/analysis/game/live/1524453209,1505,1260,United States,janeofarc,error
+806,"Apr 2, 2016",loss,11,10 min,https://www.chess.com/analysis/game/live/1524433660,1519,1482,United States,JEMPTY_METH0D,white
+807,"Apr 2, 2016",win,34,5 min,https://www.chess.com/analysis/game/live/1524419882,1533,1533,United States,DeaneMoriarty,black
+808,"Apr 2, 2016",loss,23,5 min,https://www.chess.com/analysis/game/live/1524414455,1524,1511,Libya,abdessamad1970,white
+809,"Apr 2, 2016",win,37,5 min,https://www.chess.com/analysis/game/live/1524405262,1533,1466,Lithuania,raipas,white
+810,"Apr 2, 2016",loss,24,5 min,https://www.chess.com/analysis/game/live/1524120268,1525,1478,France,Suprem_Vinz,white
+811,"Apr 2, 2016",draw,48,5 min,https://www.chess.com/analysis/game/live/1524110659,1536,1468,France,Suprem_Vinz,black
+812,"Apr 2, 2016",loss,36,5 min,https://www.chess.com/analysis/game/live/1524100529,1538,1562,Bahrain,abuelainin,error
+813,"Apr 2, 2016",draw,50,5 min,https://www.chess.com/analysis/game/live/1523918310,1547,1547,Indonesia,adjiebparadox,white
+814,"Apr 2, 2016",win,35,5 min,https://www.chess.com/analysis/game/live/1523911758,1547,1547,Indonesia,adjiebparadox,black
+815,"Apr 2, 2016",loss,16,5 min,https://www.chess.com/analysis/game/live/1523907630,1536,1639,Afghanistan,opipo,white
+816,"Apr 1, 2016",draw,34,5 min,https://www.chess.com/analysis/game/live/1523278166,1544,1573,United States,badmood,black
+817,"Mar 27, 2016",loss,26,5 min,https://www.chess.com/analysis/game/live/1516598979,1543,1586,Canada,paykorm,black
+818,"Mar 27, 2016",win,40,5 min,https://www.chess.com/analysis/game/live/1516592998,1553,1522,United States,wingosurf,white
+819,"Mar 27, 2016",loss,42,5 min,https://www.chess.com/analysis/game/live/1516584036,1543,1659,United States,cfitz707,white
+820,"Mar 27, 2016",win,17,5 min,https://www.chess.com/analysis/game/live/1516581802,1551,1496,Germany,markusmunich,white
+821,"Mar 27, 2016",draw,61,5 min,https://www.chess.com/analysis/game/live/1516481545,1541,1650,Slovenia,ivanstarrr,black
+822,"Mar 27, 2016",loss,24,5 min,https://www.chess.com/analysis/game/live/1516354606,1537,1581,Ukraine,DNIPROpetrovsk,white
+823,"Mar 26, 2016",win,18,10 min,https://www.chess.com/analysis/game/live/1515362935,1548,1022,Brazil,lokopauloko,black
+824,"Mar 26, 2016",win,6,10 min,https://www.chess.com/analysis/game/live/1515360469,1547,1023,Brazil,lokopauloko,white
+825,"Mar 26, 2016",win,23,10 min,https://www.chess.com/analysis/game/live/1515346602,1546,1024,Brazil,lokopauloko,black
+826,"Mar 26, 2016",win,15,5 min,https://www.chess.com/analysis/game/live/1515338386,1545,1025,Brazil,lokopauloko,white
+827,"Mar 26, 2016",loss,50,5 min,https://www.chess.com/analysis/game/live/1515140902,1544,1585,Cambodia,Tarragona2011,black
+828,"Mar 26, 2016",win,34,5 min,https://www.chess.com/analysis/game/live/1515133814,1556,1537,Bangladesh,shimul22,black
+829,"Mar 26, 2016",loss,37,5 min,https://www.chess.com/analysis/game/live/1515123644,1543,1529,Israel,gadikl,white
+830,"Mar 26, 2016",loss,33,5 min,https://www.chess.com/analysis/game/live/1514776478,1558,1595,Bangladesh,arif314,black
+831,"Mar 26, 2016",loss,16,5 min,https://www.chess.com/analysis/game/live/1514773026,1572,1575,United States,skprva,white
+832,"Mar 26, 2016",loss,40,5 min,https://www.chess.com/analysis/game/live/1514615768,1588,1596,Australia,ParuniTheShowStopper,white
+833,"Mar 26, 2016",loss,46,5 min,https://www.chess.com/analysis/game/live/1514607612,1604,1666,United States,meank_98,white
+834,"Mar 26, 2016",win,54,5 min,https://www.chess.com/analysis/game/live/1514597725,1618,1561,France,coolesympa,black
+835,"Mar 25, 2016",loss,57,5 min,https://www.chess.com/analysis/game/live/1513803542,1603,1653,Portugal,cf5106,black
+836,"Mar 25, 2016",loss,42,5 min,https://www.chess.com/analysis/game/live/1513791299,1619,1646,Portugal,cf5106,white
+837,"Mar 25, 2016",win,7,5 min,https://www.chess.com/analysis/game/live/1513788959,1637,1538,Sao Tome/Principe,Valss,black
+838,"Mar 25, 2016",win,40,5 min,https://www.chess.com/analysis/game/live/1513777275,1622,1549,Canada,northernjatt,white
+839,"Mar 25, 2016",loss,14,5 min,https://www.chess.com/analysis/game/live/1513284609,1604,1677,Portugal,cactusat,error
+840,"Mar 25, 2016",loss,18,5 min,https://www.chess.com/analysis/game/live/1513280834,1623,1670,Portugal,cactusat,white
+841,"Mar 25, 2016",loss,1,1 min,https://www.chess.com/live/game/1513205333?username=rondan1000,1141,1642,Russia,Revun,error
+842,"Mar 25, 2016",win,66,5 min,https://www.chess.com/analysis/game/live/1513138129,1644,1439,Philippines,eddiesalcedo,black
+843,"Mar 24, 2016",loss,12,15|10,https://www.chess.com/analysis/game/live/1512767243,1482,2138,Albania,gad3909,white
+844,"Mar 24, 2016",win,30,15|10,https://www.chess.com/analysis/game/live/1512752581,1497,1403,Philippines,jeerichoo18,white
+845,"Mar 24, 2016",win,68,15|10,https://www.chess.com/analysis/game/live/1512733869,1302,897,Australia,ali_alwan,error
+846,"Mar 24, 2016",loss,48,5 min,https://www.chess.com/analysis/game/live/1512722325,1631,1669,Brazil,guilhermenik2015,black
+847,"Mar 24, 2016",loss,12,5 min,https://www.chess.com/analysis/game/live/1512716824,1656,1910,Guatemala,Roberhood,error
+848,"Mar 24, 2016",loss,42,5 min,https://www.chess.com/analysis/game/live/1512707910,1667,1697,Philippines,superman_007,white
+849,"Mar 24, 2016",win,66,5 min,https://www.chess.com/analysis/game/live/1512699604,1696,1711,France,reinemer,white
+850,"Mar 24, 2016",win,29,5 min,https://www.chess.com/analysis/game/live/1512692372,1661,1499,Brazil,motoserra,black
+851,"Mar 24, 2016",win,71,5 min,https://www.chess.com/analysis/game/live/1512683357,1639,1498,Mexico,LauTeresa,white
+852,"Mar 24, 2016",loss,31,5 min,https://www.chess.com/analysis/game/live/1512674151,1613,1735,Colombia,israeldelahoz,black
+853,"Mar 24, 2016",win,57,5 min,https://www.chess.com/analysis/game/live/1512579777,1643,1422,Chile,cristianlopezc,white
+854,"Mar 24, 2016",win,57,5 min,https://www.chess.com/analysis/game/live/1512429520,1612,1437,Egypt,monikarefaat,black
+855,"Mar 23, 2016",win,41,5 min,https://www.chess.com/analysis/game/live/1511154702,1581,1458,Argentina,lopezraul777,black
+856,"Mar 23, 2016",win,38,10 min,https://www.chess.com/analysis/game/live/1511146934,1538,1315,Canada,AndyAnd3,white
+857,"Mar 23, 2016",win,28,10 min,https://www.chess.com/analysis/game/live/1511141540,1505,1319,Canada,AndyAnd3,black
+858,"Mar 23, 2016",win,23,10 min,https://www.chess.com/analysis/game/live/1511136932,1460,1324,Canada,AndyAnd3,white
+859,"Mar 23, 2016",win,38,10 min,https://www.chess.com/analysis/game/live/1511128247,1396,1331,Canada,AndyAnd3,black
+860,"Mar 23, 2016",win,24,10 min,https://www.chess.com/analysis/game/live/1511114018,1297,1140,Puerto Rico,wbravog,white
+861,"Mar 17, 2016",win,10,5 min,https://www.chess.com/analysis/game/live/1503515457,1202,1010,Argentina,pandavivela,black
+862,"Mar 17, 2016",loss,26,5 min,https://www.chess.com/analysis/game/live/1503508658,1089,1388,United States,aaacoolguy23,white
