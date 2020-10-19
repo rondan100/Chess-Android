@@ -1,0 +1,451 @@
+<ContentNavigationDrawer>:
+    orientation: "vertical"
+    padding: "0dp"
+    spacing: "8dp"
+
+    AnchorLayout:
+        anchor_x: "left"
+        size_hint_y: None
+        height: avatar.height
+
+        Image:
+            id: avatar
+            size_hint: None, None
+            size: "320dp", "320dp"
+            source: "chess.jpg"
+
+    MDLabel:
+        text: "     Data Science for Chess!"
+        font_style: "Button"
+        size_hint_y: None
+        height: self.texture_size[1]
+
+    MDLabel:
+        text: "     Adicionando conteúdo às suas análises..."
+        font_style: "Caption"
+        size_hint_y: None
+        height: self.texture_size[1]
+
+    ScrollView:
+
+        MDList:
+
+            OneLineIconListItem:
+                text: "DASHBOARD"
+                on_press:
+                    root.nav_drawer.set_state("close")
+                    root.screen_manager.current = "Scr_1"
+                IconLeftWidget:
+                    icon: "desktop-mac-dashboard"
+                
+
+            OneLineIconListItem:
+                text: "ANALYTCS"
+                on_press:
+                    root.nav_drawer.set_state("close")
+                    # root.screen_manager.current = "Scr_2"
+                IconLeftWidget:
+                    icon:"google-analytics"
+                    # icon: "home-analytics"
+
+<Tab>:
+    # MDLabel:
+    #     text: "Content1"
+    #     pos_hint: {"center_x": 0.95, "center_y": 0.2}
+
+<ScreensManager>:
+    MainScreen:
+    SecondScreen:
+
+<MainScreen>:
+    id: main
+    name: "main_screen"
+    box1: box1
+    box2: box2
+    box3: box3
+    box4: box4
+    screen_manager: screen_manager
+    # text_nick: text_nick
+
+    BoxLayout:
+        id: boxx
+        orientation: 'vertical'
+
+        MDToolbar:
+            id: toolbar
+            title: "Chess Science"
+            left_action_items: [["menu", lambda x: nav_drawer.set_state("open")]]
+            # right_action_items: [["dots-vertical", lambda x: root.menu_1.open()]]
+            MDIconButton:
+                id: botao
+                icon: 'dots-vertical'
+                theme_text_color: 'Custom'
+                elevation: 0
+                md_bg_color: app.theme_cls.primary_color
+                on_release: root.left_menu()
+
+
+        MDTabs:
+            id: tabs
+            Tab:
+                text: "DASHBOARD"
+
+                # MDFloatingActionButtonSpeedDial:
+                #     data: app.data
+                # rectangleColor: (1,1,0,1) if self.visible else (1,1,1,0)
+
+                ScrollView:
+                    do_scroll_x: False
+                    do_scroll_y: True
+
+                    GridLayout:
+                        size_hint_y: None
+                        height: self.minimum_height
+                        cols: 1
+                        rows: 2
+                        size: root.width, root.height 
+                       
+                        orientation: 'vertical'
+
+                        BoxLayout:
+                            size_hint: 1, 0.6
+                            canvas.before:
+                                Rectangle:
+                                    id: rec
+                                    source:"./botao_.jpg"
+                                    pos: self.pos
+                                    size: self.size
+                            GridLayout:
+                                # id: box1
+                                rows: 3
+                                cols: 3
+                                BoxLayout:
+                                    size_hint: 0.1, 0.07
+                                    # Button:
+                                    #     text: "1"
+                                BoxLayout:
+                                    size_hint: 0.3, 0.07
+                                    # Button:
+                                    #     text: "2"
+                                BoxLayout:
+                                    size_hint: 0.8, 0.07
+                                    # Button:
+                                    #     text: "3"
+                                BoxLayout:
+                                    size_hint: 0.1, 1
+                                    # Button:
+                                    #     text: "4"
+                                BoxLayout:
+                                    id: box1
+                                    spacing: 2
+                                    padding: 2
+                                BoxLayout:
+                                    size_hint: 0.8, 1
+                                    spacing: 2
+                                    padding: 2
+                                    orientation: "vertical"
+                                    GridLayout:
+                                        rows: 2
+                                        cols: 1
+                                        # BoxLayout:
+                                        #     size_hint: 1, 0.3
+                                        #     MDLabel:
+                                        #         text: "Rondan1000"
+                                        #         font_size: 22
+                                        #         halign: "center" 
+                                        #         # valign: "top"
+                                        #         # pos_hint: {'y': 1}
+                                        BoxLayout:
+                                            id: label1
+                                            size_hint: 1, 0.5
+                                            MDRaisedButton:
+                                                text:'Atualizar'
+                                                font_size: 20
+                                                bold: True
+                                                # size_hint: 0.1, 0.08
+                                                pos_hint: {'x':0.8, 'y': 0.1 }
+                                                # color: 1, 1, 1, 1
+                                                on_press: root.barra_box1()
+                                            # opacity:1 if root.g_bar else 0
+                                            # MDLabel:
+                                            #     text: "Maior Rating"
+                                            #     font_size: 22
+                                            #     halign: "center" 
+                                                # opacity:0
+                                                # opacity: 1 if root.isShownLabel else 0
+                                        BoxLayout:
+                                            id: label2
+                                            # size_hint: 1, 0.5
+                                            # opacity:1
+                                            # MDLabel:
+                                            #     text: "Melhor Vitória"
+                                            #     font_size: 22
+                                            #     halign: "center" 
+                                                # opacity:0
+                                                # opacity: 1 if root.isShownLabel else 0
+
+                                BoxLayout:
+                                    size_hint: 0.1, 0.07
+                                    # Button:
+                                    #     text: "7"
+                                BoxLayout:
+                                    size_hint: 0.3, 0.07
+                                    # Button:
+                                    #     text: "8"
+                                BoxLayout:
+                                    size_hint: 0.8, 0.07
+                                    # Button:
+                                    #     text: "9"
+                                
+                        BoxLayout:
+                            # size_hint: 1, 0.6
+                            canvas.before:
+                                Rectangle:
+                                    id: rec
+                                    source:"./botao_.jpg"
+                                    pos: self.pos
+                                    size: self.size
+                            GridLayout:
+                                # id: box1
+                                rows: 3
+                                cols: 3
+                                BoxLayout:
+                                    size_hint: 0.1, 0.07
+                                    # Button:
+                                    #     text: "1"
+                                BoxLayout:
+                                    size_hint: 1, 0.07
+                                    # Button:
+                                    #     text: "2"
+                                BoxLayout:
+                                    size_hint: 0.1, 0.07
+                                    # Button:
+                                    #     text: "3"
+                                BoxLayout:
+                                    size_hint: 0.1, 1
+                                    # Button:
+                                    #     text: "4"
+                                BoxLayout:
+                                    id: box2
+                                    spacing: 2
+                                    padding: 2
+                                BoxLayout:
+                                    size_hint: 0.1, 1
+                                BoxLayout:
+                                    size_hint: 0.1, 0.07
+                                    # Button:
+                                    #     text: "7"
+                                BoxLayout:
+                                    size_hint: 1, 0.07
+                                    # Button:
+                                    #     text: "8"
+                                BoxLayout:
+                                    size_hint: 0.1, 0.07
+
+                MDFloatingActionButton:
+                    id: float_act_btn
+                    icon: 'plus'
+                    opposite_colors: True
+                    md_bg_color: app.theme_cls.primary_color
+                    pos_hint: {'center_x': 0.84, 'center_y': 0.1}
+                    # on_release: root.Cancelar_(None)   
+                    # on_release: root.Cancelar                
+                    on_release: root.nickname()
+                    # on_release: root.screen_manager.current = "Scr_2"
+
+            Tab:
+                text: "STUDY"
+                name: "tab2"
+                # orientation: 'vertical'
+
+                ScrollView:
+                    do_scroll_x: False
+                    do_scroll_y: True
+
+                    GridLayout:
+                        # id: box
+                        size_hint_y: None
+                        height: self.minimum_height
+                        cols: 1
+                        rows: 3
+                        size: root.width, root.height 
+
+                        orientation: 'vertical'
+                        BoxLayout:
+                            size_hint: 1, 0.01
+                            Label:
+                                text: 'STUDY'
+                        BoxLayout:
+                            # id: box1
+                            size_hint: 1, 1
+                            canvas.before:
+                                Rectangle:
+                                    id: rec
+                                    source:"./botao_.jpg"
+                                    pos: self.pos
+                                    size: self.size
+
+                            GridLayout:
+                                # id: box1
+                                rows: 3
+                                cols: 3
+                                BoxLayout:
+                                    size_hint: 0.1, 0.07
+                                    # Button:
+                                    #     text: "1"
+                                BoxLayout:
+                                    size_hint: 1, 0.07
+                                    # Button:
+                                    #     text: "2"
+                                BoxLayout:
+                                    size_hint: 0.1, 0.07
+                                    # Button:
+                                    #     text: "3"
+                                BoxLayout:
+                                    size_hint: 0.1, 1
+                                    # Button:
+                                    #     text: "4"
+                                BoxLayout:
+                                    id: box3
+                                    spacing: 2
+                                    padding: 2
+                                BoxLayout:
+                                    size_hint: 0.1, 1
+                                    # Button:
+                                    #     text: "6"
+                                BoxLayout:
+                                    size_hint: 0.1, 0.07
+                                    # Button:
+                                    #     text: "7"
+                                BoxLayout:
+                                    size_hint: 1, 0.07
+                                    # Button:
+                                    #     text: "8"
+                                BoxLayout:
+                                    size_hint: 0.1, 0.07
+
+                        BoxLayout:
+                            # id: box2
+                            canvas.before:
+                                Rectangle:
+                                    id: rec
+                                    source:"./botao_.jpg"
+                                    pos: self.pos
+                                    size: self.size
+                            spacing: 30
+                            padding: 30
+                            BoxLayout:
+                                id: box4
+                                spacing: 30
+                                padding: 30
+
+                Button:
+                    text:'My Elo'
+                    font_size: 20
+                    bold: True
+                    size_hint: 0.1, 0.08
+                    pos_hint: {'x':0.8, 'y': 0.1 }
+                    color: 1, 1, 1, 1
+                    on_press: root.my_elo()
+                Button:
+                    text:'Country'
+                    font_size: 20
+                    bold: True
+                    size_hint: 0.1, 0.08
+                    pos_hint: {'x':0.8, 'y': 0 }
+                    color: 1, 1, 1, 1
+                    on_press: root.country()
+            Tab:
+                text: "PRACTICE"
+
+    NavigationLayout:
+        x: toolbar.height
+
+        ScreenManager:
+            id: screen_manager
+
+            Screen:
+                # box: box
+                name: "Scr_1"
+
+                BoxLayout:
+                    # id: box
+                    size_hint: 0.8, 0.75
+                    pos_hint:{'x': 0.15, 'y': 0.1 }
+
+            Screen:
+                name: "Scr_2"
+                CircularProgressBar:
+                    id: cp
+                    size_hint: (None, None)
+                    pos_hint:{'center_x': 0.5, 'center_y': 0.5 }
+                    height: 200
+                    width: 200
+                    max: 80
+
+        MDNavigationDrawer:
+            id: nav_drawer
+
+            ContentNavigationDrawer:
+                screen_manager: screen_manager
+                nav_drawer: nav_drawer
+                tabs: tabs
+
+<Item>
+
+    ImageLeftWidget:
+        source: root.source
+
+<Content>
+    orientation: "vertical"
+    spacing: "12dp"
+    size_hint_y: None
+    height: "60dp"
+    # theme_text_color: "Custom"
+    name: "content"
+    # id: ccc
+    text_nick: text_nick
+
+    MDTextField:
+        id: text_nick
+        hint_text: "Nickname"
+        helper_text: "Insira o nickname do site chess.com"
+        helper_text_mode: "on_focus"
+        font_size: "20dp"
+        text_color: 200,100,100,133
+
+    # MDTextField:
+    #     hint_text: "Nickname"
+    #     text_color: 0, 0, 1, 1  
+
+# <MaterialWidget>
+#     color: (1, 0, 0, 1)
+#     canvas.before:
+#         Color:
+#             rgba: 1,1,1,1
+#         Rectangle:
+#             size: self.shadow_size1
+#             pos: self.shadow_pos1
+#             texture: self.shadow_texture1
+#         Rectangle:
+#             size: self.shadow_size2
+#             pos: self.shadow_pos2
+#             texture: self.shadow_texture2
+#         Color:
+#             rgba: 1,1,1,1
+#         Rectangle:
+#             size: self.size
+#             pos: self.pos
+
+<SecondScreen>:
+    name: "second_screen"
+    # Screen:
+    #     name: "Scr2_teste"
+    #     CircularProgressBar:
+    #         id: cp2
+    #         size_hint: (None, None)
+    #         pos_hint:{'center_x': 0.5, 'center_y': 0.5 }
+    #         height: 100
+    #         width: 100
+    #         max: 80
+                
